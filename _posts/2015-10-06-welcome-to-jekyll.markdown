@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Artmetry!"
 date:   2015-10-06 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
