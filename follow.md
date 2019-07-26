@@ -4,4 +4,4 @@ title: follow
 permalink: /follow/
 ---
 
-follow
+follow!
