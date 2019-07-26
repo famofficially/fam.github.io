@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to kowala!"
-date:   2015-10-07 15:39:40
+title:  "Badboy!"
+date:   2019-07-26 16:12:21
 preview: /img/kowala.jpg
 
 ---

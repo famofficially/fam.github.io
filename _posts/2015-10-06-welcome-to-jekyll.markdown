@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Artmetry!"
-date:   2015-10-06 15:39:40
-preview: holder.js/300x300?auto=yes
+title:  "women&Fllowers!"
+date:   2019-07-26 16:15:21
+preview: /img/FilleEnMouvement-mini.jpg
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](/img/FilleEnMouvement-mini.jpg)
 
 Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
