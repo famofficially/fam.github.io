@@ -4,7 +4,6 @@ title: about
 permalink: /about/
 ---
 
-Please contact us at: 
-artmetryshop@gmail.com
-
-Thank you!
+Hi,My name is Farah, i am an artist, based in PARIS. I love to illustrate, draw and paint, i don't have a specific topic, i paint everything that inspires me 🌸 , my painting technique is mainly based on acrylic, oil, charcoal, felt, pencils, or graphic art and it's not over🤓...i try all the time experimenting new styles and new tools🔬... My artwork is mainly in abstract and figurative painting. 
+I hope they will in some way help you positively, encourage and inspire you🌻. 
+Best, Farah
