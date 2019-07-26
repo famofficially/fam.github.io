@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-10-09 15:39:40
-preview: holder.js/300x300?auto=yes
+date:   2019-07-26 16:21:23
+preview: /img/fille-cool-Bigfleurs.png
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](/img/fille-cool-Bigfleurs.png)
 
 Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
