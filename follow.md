@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌸follow us
+title: 🌸 Follow us
 permalink: /follow/
 ---
 
