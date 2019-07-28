@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 ---
 
-Please contact us at: 
+Here is my email for any contact: 
 artmetryshop@gmail.com
 
-Thank you!
+Thank you🌻!
