@@ -4,7 +4,12 @@ title: shop
 permalink: /shop/
 ---
 
-You can buy my artwork at my Etsy Shop: https://www.etsy.com/fr/shop/artmetry
-or my Handmade Amazon: https://www.amazon.fr/handmade/artmetry
+You can buy my artwork at my Etsy Shop:
+* [https://www.etsy.com/fr/shop/artmetry](https://www.etsy.com/fr/shop/artmetry)
+or my Handmade Amazon:
+* [https://www.amazon.fr/handmade/artmetry](https://www.amazon.fr/handmade/artmetry)
+
+
+
 
 Thnak you!
