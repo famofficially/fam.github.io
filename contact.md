@@ -3,8 +3,7 @@ layout: page
 title: contact
 permalink: /contact/
 ---
-
-Here is my email for any contact: 
+For commissions or any other queries please contact by E-mail
 artmetryshop@gmail.com
 
 Thank you🌻!
