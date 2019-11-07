@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Badboy!"
+title:  "Bad boy"
 date:   2019-07-26 16:24:21
 preview: /img/kowala.jpg
 
@@ -9,5 +9,6 @@ preview: /img/kowala.jpg
 ![Picture 1](/img/kowala.jpg) 
 
 
-"Badboy!" print availabe in my Etsy shop: https://www.etsy.com/fr/shop/artmetry
+Bad boy, illustration numérique, 2019.
+
 

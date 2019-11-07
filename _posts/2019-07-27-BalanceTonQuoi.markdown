@@ -9,4 +9,4 @@ preview: /img/BalanceTonQuoi.jpg
 ![Picture 1](/img/BalanceTonQuoi.jpg) 
 
 
-"Balance ton quoi" print availabe in my Etsy shop: https://www.etsy.com/fr/shop/artmetry
+Balance ton quoi, illustration numérique, 2019.
