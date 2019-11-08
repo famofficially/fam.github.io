@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Balance ton quoi!"
+title:  ""
 date:   2019-07-27 00:07:21
-preview: /img/BalanceTonQuoi.jpg
+preview: /img/crapeau.jpeg
 
 ---
 
-![Picture 1](/img/BalanceTonQuoi.jpg) 
+![Picture 1](/img/crapeau.jpeg) 
 
 
-Balance ton quoi, illustration numérique, 2019.
+Sans titre, Fusain sur papier,  29x42 cm, 2019.

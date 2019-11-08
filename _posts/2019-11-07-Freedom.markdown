@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Freedom"
+date:   2019-11-07 17:57:21
+preview: /img/freedom.jpg
+
+---
+
+![Picture 1](/img/BalanceTonQuoi.jpg) 
+
+
+Freedom, illustration numérique, 2019.

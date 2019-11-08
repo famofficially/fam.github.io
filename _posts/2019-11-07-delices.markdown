@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Les délices de la rêverie"
+date:   2019-11-08 17:58:21
+preview: /img/delices.jpg
+
+---
+
+![Picture 1](/img/delices.jpg) 
+
+
+Les délices de la rêverie, Acrylique sur toile, 80x60 cm, 2019.
