@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🌸 Follow us
-permalink: /follow/
+permalink: /illustrations/
 ---
 
 Hello, 
