@@ -1,7 +1,7 @@
 ---
 layout: page
 title: shop
-permalink: /actualités/
+permalink: /actualites/
 ---
 
 Une année en peinture acte 5 / Novembre à Vitry 2019 - Prix de peinture

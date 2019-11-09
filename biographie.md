@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /shop/
+permalink: /biographie/
 ---
 
 Hi, 
