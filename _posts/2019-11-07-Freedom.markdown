@@ -6,7 +6,7 @@ preview: /img/freedom.jpg
 
 ---
 
-![Picture 1](/img/BalanceTonQuoi.jpg) 
+![Picture 1](/img/freedom.jpg) 
 
 
 Freedom, illustration numérique, 2019.
