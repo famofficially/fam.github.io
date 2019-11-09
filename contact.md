@@ -1,9 +1,10 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact/
 ---
-For commissions or any other queries please contact by E-mail:
-artmetryshop@gmail.com
+Adresse mail: farah.maamar@icloud.com
 
-Thank you🌻!
+Facebook: https://www.facebook.com/farah.artwork/
+
+Merci🌻!
