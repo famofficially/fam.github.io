@@ -5,6 +5,8 @@ permalink: /biographie/
 ---
 
 Née en 1987, vit et travaille à Paris.
+
+
 FORMATION
 
 MOOC de L’art moderne et contemporain en 8 gestes, Avec le Centre Pompidou.
@@ -26,6 +28,15 @@ Centre de recherche en informatique (CRI), Paris — Préparation une thèse de 
 Paris 1 Panthéon sorbonne, Paris — Master en Système d’information et de décision
 2012/2013
 
+
+
+EXPO / PROJETS
+
+[Expo Collective] CARNAVAL DE BINCHE 2020, Belgique — Affiche. Format 70 cm/50 cm couleur (Fig.page 28).
+Décembre 2019
+Sélectionnée pour une exposition collective durant le mois de décembre 2019
+
+[Expo Collective] Novembre à Vitry/50 1969-2019, Galerie Municipale Jean Collet, Vitry-sur-Seine, de 16 Novembre au 15 décembre.
 
 
 EXPÉRIENCES PROFESSIONNELLES
@@ -56,6 +67,11 @@ Pepita Health, Paris — Direction artistique et graphisme
 
 - Création graphique
 - Illustrations techniques (crayon / Illustrator)
+
+
+
+
+
 
 
 
