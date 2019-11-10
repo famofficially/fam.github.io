@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La carte"
+title:  "La carte, illustration numérique, 2019."
 date:   2019-07-27 00:05:40
 preview: /img/poisson-carte.jpg
 ---
