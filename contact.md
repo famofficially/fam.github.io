@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
  
-📨 **Adresse mail:** 
+📨 **Email:** 
 [farah.maamar@icloud.com](mailto:farah.maamar@icloud.com)
 
 📌**Facebook:**
