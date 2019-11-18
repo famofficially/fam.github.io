@@ -24,4 +24,4 @@ Ci-dessous quelques photos/video sélectionnées du jour de vernissage, qui a eu
 ![visiteur](/img/visiteur.jpg)
 ![annonce](/img/Annonce_laureat.JPG)
 
-[![Audi R8](/img/capture.png)](https://www.facebook.com/farah.artwork/videos/3251108694963786/?t=1 "Audi R8")
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffarah.artwork%2Fvideos%2F3251108694963786%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
