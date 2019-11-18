@@ -23,5 +23,5 @@ Le jury 2019 est composé de:  Jérémy Chabaud, Iroise Doublet (lauréate 2018)
 Ci-dessous quelques photos/video sélectionnées du jour de vernissage, qui a eut lieu le samedi 16 novembre entre 18H-21H.
 ![visiteur](/img/visiteur.jpg)
 ![annonce](/img/Annonce_laureat.JPG)
-![visit](/img/visiteurs.mp4)
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.facebook.com/farah.artwork/videos/3251108694963786/?t=1 "Audi R8")
+
+[![Audi R8](/img/capture.png)](https://www.facebook.com/farah.artwork/videos/3251108694963786/?t=1 "Audi R8")
