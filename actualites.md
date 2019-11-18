@@ -13,8 +13,8 @@ Jury 2019 est composé de:  Jérémy Chabaud, Iroise Doublet (lauréate 2018), T
 
 "Les délices de la rêverie" c'est mon oeuvre candidate pour le Prix de Peinture Novembre à Vitry 2019 et sélectionnée pour une exposition collectif du 16 Novembre à 15 décembre à La Galerie Municipal JEAN-COLLET de Vitry-sur-Seine.
 ![catalogue](/img/catalogue-vitry2019.jpg)
-> Catalogue de l'exposition des oeuvres sélextionnées du 16 Novembre au 15 Décembre 2019. 
+> Catalogue d'Exposition des oeuvres sélectionnées du 16 Novembre au 15 Décembre 2019. 
 
 ![catalogue](/img/catalogue.jpg) 
 
-> Page Présentation [Catalogue de l'exposition des oeuvres sélextionnées du 16 Novembre au 15 Décembre 2019].
+> Page Présentation [Catalogue de l'exposition des oeuvres sélectionnées du 16 Novembre au 15 Décembre 2019].
