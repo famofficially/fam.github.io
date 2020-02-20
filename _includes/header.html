@@ -1,18 +1,50 @@
 <header class="site-header">
   <a class="site-title" href="{{ site.baseurl }}/"><img src="/img/banner.png"></a>
-    
+
   <nav class="navbar">
     <ul>
-      <li class="nav-item"><a href="{{ site.baseurl }}/">Arts plastiques</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/illustrations">Illustrations</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/actualites/">Actualités</a>
+      <li class="nav-item">
+        <a href="#">Arts plastiques</a>
+        <ul class="dropdown">
+          <li><a href="{{ site.baseurl }}/arts_plastiques/peinture">Peinture</a></li>
+          <li><a href="{{ site.baseurl }}/arts_plastiques/dessin">Dessin</a></li>
+          <li><a href="#">Sculpture</a></li>
+        </ul>
       </li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/biographie/">Biographie</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/demarche/">Démarche Artistique</a></li>
+      <li class="nav-item"><a href="#">Art numerique</a>
+        <ul class="dropdown">
+          <li><a href="{{ site.baseurl }}/arts_numeriques/illustrations">Illustrations</a></li>
+          <li><a href="{{ site.baseurl }}/arts_numeriques/posters">Posters</a></li>
+          <li><a href="{{ site.baseurl }}/arts_numeriques/illustrations_jeunesse">Illustrations jeunesse</a></li>
+          
+        </ul>
+      </li>
+      <li class="nav-item"><a href="#">Expo et Publications</a>
+        <ul class="dropdown">
+          <li><a href="{{ site.baseurl }}/expo_publications/vitry2019">Vitry 2019</a></li>
+          <li><a href="{{ site.baseurl }}/expo_publications/eurydema_ornata2020">Eurydema Ornata</a></li>
+        </ul>
+      </li>
+      <li class="nav-item"><a href="#">Blog</a>
+        <ul class="dropdown">
+          <li class="nav-item"><a href="{{ site.baseurl }}/blog/art_capital2020">Art Capital 2020</a></li>
+          <li class="nav-item"><a href="#">Collection De Vinci</a></li>
+          <li class="nav-item"><a href="#">Nuit nocturne-Louvre</a></li>   
+        </ul>
+      </li>
+      <li class="nav-item"><a href="#">À propos</a>
+        <ul class="dropdown">
+          <li class="nav-item"><a href="{{ site.baseurl }}/demarche/">Démarche Artistique</a></li>
+          <li class="nav-item"><a href="{{ site.baseurl }}/biographie/">Biographie</a></li>
+        </ul>
+      </li>
+      
       <!--
        <li class="nav-item"><a href="{{ site.baseurl }}/illustrations/">Illustrations</a></li>
        -->
-      <li class="nav-item"><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+      <li class="nav-item">
+        <a href="{{ site.baseurl }}/contact/">Contact</a>
+      </li>
     </ul>
   </nav>
 

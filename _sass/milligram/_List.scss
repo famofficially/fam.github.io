@@ -32,3 +32,88 @@ ol {
 ul {
 	list-style: circle inside;
 }
+
+// menu :) 
+li {
+    display: block;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+	transition-duration: 0.5s;
+	border-bottom: 3px solid transparent;
+	z-index: 999;
+	border-top-left-radius: 5px;
+  	border-top-right-radius: 5px;
+}
+  
+li a {
+  
+}
+
+.navbar > ul > li.nav-item:hover {
+  -webkit-box-shadow: 10px 17px 58px -12px rgba(0,0,0,0.47);
+  -moz-box-shadow: 10px 17px 58px -12px rgba(0,0,0,0.47);
+  box-shadow: 10px 17px 58px -12px rgba(0,0,0,0.47);
+  background-color: #FFF;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color: #000;
+}
+
+li:hover {
+   cursor: pointer;
+	//border-bottom:3px solid #A769CF;
+	//ont-weight: 400;
+}
+
+ul > li > ul > li {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+  box-shadow: none;
+  display:inline-block;
+  width:100%;
+}
+
+ul > li > ul > li:hover {
+	background:#F5F5F5;
+}
+
+ul > li > ul > li > a {
+  display:inline-block;
+  width:100%;
+}
+
+ul > li > ul > li:hover a {
+	font-weight:400;
+}
+
+ul li ul {
+  background:#FFFFFF;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 165px;
+  position: absolute;
+  transition: all 0.5s ease;
+  left: 0;
+  top: 4rem;
+  display: none;
+  width:100%;
+  margin:0;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  -webkit-box-shadow: 17px 17px 58px -12px rgba(0,0,0,0.47);
+  -moz-box-shadow: 17px 17px 58px -12px rgba(0,0,0,0.47);
+  box-shadow: 17px 17px 58px -12px rgba(0,0,0,0.47);
+}
+
+ul li:hover > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+ul li ul li {
+  clear: both;
+  width: 100%;
+}

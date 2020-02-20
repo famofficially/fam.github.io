@@ -1,4 +1,5 @@
 {% for post in site.posts %}
+{% if post.category contains 'arts_plastiques' %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
@@ -9,5 +10,6 @@
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
+{% endif %}
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
