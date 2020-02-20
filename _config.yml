@@ -3,7 +3,7 @@ title: contact
 email: farah.maamar@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   ©Farah Cherif, PARIS🇫🇷
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://farah-cherif.github.io" # the base hostname & protocol for your site
 facebook_username: #Artmetry
 twitter_username: #artmetry6

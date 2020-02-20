@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sans titre, Acrylique sur toile, 40x40 cm, 2018."
+date:   2019-11-08 19:57:21
+preview: /img/animals.jpeg
+category: peinture
+---
+
+![Picture 1](/img/animals.jpeg) 
+
+
+Sans titre, Acrylique sur toile, 40x40 cm, 2018.
+
