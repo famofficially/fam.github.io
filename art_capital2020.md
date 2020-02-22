@@ -21,3 +21,5 @@ Je partage ici mes coups de coeur lors de ma visite au Salon Art Capital 2020 au
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
 </div>
+
+le 16 février 2020
