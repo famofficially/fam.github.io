@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  
-date:   2020-02-16 16:00:21
-preview: /img/IMG_2013.jpg
+title:  ArtCapital
+date:   2020-01-16 16:00:21
+preview: /img/ArtCapital/IMG_2013.jpg
 category: art_capital2020
 ---
 

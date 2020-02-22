@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  
-date:   2020-02-16 16:00:21
+date:   2020-01-17 16:00:21
 preview: /img/ArtCapital/IMG_2016.jpg
 category: art_capital2020
 ---
