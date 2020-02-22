@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌸 Follow us
+title:
 permalink: /arts_plastiques/dessin/
 ---
 

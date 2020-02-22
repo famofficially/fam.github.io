@@ -13,7 +13,7 @@ Mon visuel (peinture numérique) en lien avec le texte de Jean-Baptiste Garnier 
 >Tiré à 150 exemplaires numérotés,
 >A5 à l'italisenne,
 >90 pages couleur
-![Eurydema Ornata 2020 numéro 7 format papier](/img/ornata.jpeg)
+![Eurydema Ornata 2020 numéro 7 format papier](/img/ornata.jpg)
 
 *Eurydema   Ornata    Éditions
 Maison d'édition où textes et images se répondent
