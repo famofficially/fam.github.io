@@ -23,3 +23,6 @@ Maison d'édition où textes et images se répondent
 > La revue est dispo sur le site de Eurydema ornata edition 👉 [https://www.eurydemaornataeditions.com/revue-ornata-papier](https://www.eurydemaornataeditions.com/revue-ornata-papier)
 
 ![Eurydema Ornata 2020 numéro 7 format papier](/news/revnue_n_7_papier_eurydema_ornata_edition_cover.jpg)
+
+
+![artistes invités](/news/Ornata-selection.png)
