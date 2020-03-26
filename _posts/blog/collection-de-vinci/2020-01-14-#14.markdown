@@ -1,0 +1,14 @@
+---
+layout: post
+title: 
+date:   2020-01-14 16:00:21
+preview: /img/collection-de-vinci/IMG_1629.JPG
+category: collection-de-vinci
+---
+
+![Picture 1](/img/collection-de-vinci/IMG_1629.JPG) 
+
+
+ArtCapital 2020.
+
+

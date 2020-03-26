@@ -1,0 +1,12 @@
+---
+layout: post
+title: Artcapital
+date:   2020-01-11 16:00:21
+preview: /img/collection-de-vinci/IMG_1642.JPG
+category: collection-de-vinci
+---
+
+![Picture 1](/img/collection-de-vinci/IMG_1642.JPG) 
+
+
+ArtCapital 2020.
