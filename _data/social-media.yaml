@@ -1,0 +1,25 @@
+email:
+  id: 'farah.maamar@icloud.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa fa-envelope-square'
+
+facebook:
+  id: 'farah.artwork'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fab fa-facebook-square'
+
+twitter:
+  id: 'artmetry6'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fab fa-twitter-square'
+
+instagram:
+  id: 'farahartwork'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fab fa-instagram-square'
+
+  
