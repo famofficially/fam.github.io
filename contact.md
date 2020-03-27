@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Contact
+title:
 permalink: /contact/
 ---
  
-📨 **Email:** 
-[farah.maamar@icloud.com](mailto:farah.maamar@icloud.com)
+	
+[💌 Email](mailto:farah.maamar@icloud.com)
 
-📌**Facebook:**
-[https://www.facebook.com/farah.artwork/](https://www.facebook.com/farah.artwork/)  
+[💎Messenger](https://www.messenger.com/t/farah.maamar)
 
-
-Merci🌻!
