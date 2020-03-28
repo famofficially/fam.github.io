@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Boutique
 permalink: /boutique/
 ---
 
@@ -13,7 +13,10 @@ permalink: /boutique/
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <img src="{{ post.preview }}">
                 </a>
-                <div class="post-title">{{ post.title }}</div>
+                <div class="post-title">{{ post.title }}
+                <a href="#" class="tag">{{ post.price}}€ </a>
+                <br>
+                <a class="button" href="{{ post.url | prepend: site.baseurl }}">Acheter</a></div>
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
