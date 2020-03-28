@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le visuel de participation à la revue Eurydema Ornata numéro de mars 2020 #7 papier
+title: Le visuel participé à la revue d'Eurydema Ornata numéro 7 de mars 2020 Papier
 permalink: /expo_publications/eurydema_ornata2020/
 preview: /news/prix_de_vitry.png
 
