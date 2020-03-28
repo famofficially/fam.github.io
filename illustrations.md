@@ -14,6 +14,9 @@ permalink: /arts_numeriques/illustrations/
                     <img src="{{ post.preview }}">
                 </a>
                 <div class="post-title">{{ post.title }}</div>
+                {% if post.tagmerit %}
+                <a href="#" class="tag">{{post. tagmerit}}</a>
+                {% endif %}
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}

@@ -14,6 +14,9 @@ permalink: /arts_plastiques/peinture/
                     <img src="{{ post.preview }}">
                 </a>
                 <div class="post-title">{{ post.title }}</div>
+               {% if post.tagmerit %}
+                <a href="#" class="tag" style="font-size: 9px;">{{post. tagmerit}}</a>
+                {% endif %}
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
