@@ -14,6 +14,7 @@ permalink: /boutique/
                     <img src="{{ post.preview }}">
                 </a>
                 <div class="post-title">{{ post.title }}
+                <br>
                 <a href="#" class="tag">{{ post.price}}€ </a>
                 <br>
                 <a class="button" href="{{ post.url | prepend: site.baseurl }}">Acheter</a></div>
