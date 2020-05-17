@@ -25,6 +25,6 @@ Oeuvre candidate pour le Prix de Peinture Novembre à Vitry 2019 et sélectionn�
 <div id="paypal-button-container"></div>
 
 <script type="text/javascript">
-    var price = 120;
+    var price = 250;
 </script>
 
