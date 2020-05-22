@@ -4,7 +4,7 @@ title:  "Les délices de la rêverie, Acrylique sur toile, 80x60 cm, 2019."
 date:   2019-11-11 17:58:21
 preview: /img/delices.jpg
 category: boutique
-price: 120
+price: 250
 ---
 
 ![Picture 1](/img/delices.jpg) 
