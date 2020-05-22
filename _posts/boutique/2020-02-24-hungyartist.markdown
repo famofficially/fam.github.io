@@ -17,6 +17,6 @@ price: 75
 <div id="paypal-button-container"></div>
 
 <script type="text/javascript">
-    var price = 185;
+    var price = 190;
 </script>
 
