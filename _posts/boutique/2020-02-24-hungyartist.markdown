@@ -5,7 +5,7 @@ date:   2020-02-01 19:57:21
 preview: /img/hungry_artist.jpg
 category: boutique
 price: 195
-description: Ceci n'est pas une banane, Acrylique sur toile,40x40 cm, 2020
+description: "Ceci n'est pas une banane, Acrylique sur toile,40x40 cm, 2020."
 ---
 
 ![Picture 1](/img/hungry_artist.jpg) 
