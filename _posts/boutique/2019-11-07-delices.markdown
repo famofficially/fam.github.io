@@ -4,7 +4,7 @@ title:  "Les délices de la rêverie, Acrylique sur toile, 80x60 cm, 2019."
 date:   2019-11-11 17:58:21
 preview: /img/delices.jpg
 category: boutique
-price: 250
+price: 320
 ---
 
 ![Picture 1](/img/delices.jpg) 
@@ -25,6 +25,6 @@ Oeuvre candidate pour le Prix de Peinture Novembre à Vitry 2019 et sélectionn�
 <div id="paypal-button-container"></div>
 
 <script type="text/javascript">
-    var price = 250;
+    var price = 320;
 </script>
 

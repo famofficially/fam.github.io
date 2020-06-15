@@ -4,7 +4,7 @@ title:  "Ceci n'est pas une banane, Acrylique sur toile,40x40 cm, 2020."
 date:   2020-02-01 19:57:21
 preview: /img/hungry_artist.jpg
 category: boutique
-price: 185
+price: 195
 ---
 
 ![Picture 1](/img/hungry_artist.jpg) 
@@ -19,6 +19,6 @@ price: 185
 <div id="paypal-button-container"></div>
 
 <script type="text/javascript">
-    var price = 190;
+    var price = 195;
 </script>
 
