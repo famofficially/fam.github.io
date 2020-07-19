@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Quand la palette de Hockney s invite au jardin de Monet, Peinture numérique, juin 2020"
+date:   2020-06-16 17:57:21
+preview: /img/hockneyspring-opt.jpg
+category: illustrations
+---
+
+![dessinez le printemps comme David Hockney](/img/hockneyspring-opt.jpg) 
+
+On peut pas évoquer le thème du printemps sans parler du jardin de Giverny de Claude Monet, véritables palettes de couleurs qui suivent un dégradé chromatique de la couleur blanche à la couleur pourpre. #hockneyprintemps
