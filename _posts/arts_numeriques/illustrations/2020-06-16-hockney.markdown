@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quand la palette de Hockney s invite au jardin de Monet, Peinture numérique, juin 2020"
+title:  "Quand la palette de Hockney s'invite au jardin de Monet, Peinture numérique, juin 2020"
 date:   2020-06-16 17:57:21
 preview: /img/hockneyspring-opt.jpg
 category: illustrations
