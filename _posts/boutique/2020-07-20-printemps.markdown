@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'espoir au printemps #HockneyPrintemps"
+title:  "Poster sur papier COUCHE-200 satiné, l'espoir au printemps #HockneyPrintemps, 66x44,66 cm"
 date:   2020-02-01 19:57:21
 preview: /img/hockneyspring-opt.jpg
 category: boutique
