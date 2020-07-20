@@ -27,5 +27,7 @@ Oeuvre candidate pour le Prix de Peinture Novembre à Vitry 2019 et sélectionn�
 
 <script type="text/javascript">
     var price = 320;
+    var description= "Les délices de la rêverie, Acrylique sur toile, 80x60 cm, 2019";
+
 </script>
 
