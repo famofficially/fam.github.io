@@ -5,7 +5,7 @@ date:   2020-02-01 19:57:21
 preview: /img/hockneyspring-opt.jpg
 category: boutique
 price: 120
-description : Quand la palette de Hockney s'invite au jardin de Monet, Peinture numérique, juin 2020
+description : Quand la palette de Hockney s'invite au jardin de Monet , Peinture numérique, juin 2020
 ---
 
 ![Picture 1](/img/hockneyspring-opt.jpg) 

@@ -1,20 +1,14 @@
 ---
 layout: post
 title:  "American Gothic - revisité"
-date:   2020-12-27 19:57:21
+date:   2021-01-01 19:57:21
 preview: /img/americangothic-min.jpg
 category: boutique
-price: 55
-description :American Gothic, Peinture numérique, décembre 2020
+price: 45
+description : American Gothic, Peinture numérique, décembre 2020
 ---
 
 ![Picture 1](/img/americangothic-min.jpg) 
-
-
-👇Packaging bien soigné: Poster envoyé dans un tube carré en carton.
-![Picture 1](/img/presentation-printemps.png) 
-
-
 
 🔸Print sur PAPIER COUCHE-200 SAT-QR-NUM-J2.   
 🔸Format 66cm x 44.66cm (Poster format paysage).    
@@ -25,7 +19,7 @@ description :American Gothic, Peinture numérique, décembre 2020
 <div id="paypal-button-container"></div>
 
 <script type="text/javascript">
-    var price = 55;
-    var description= "Lespoir au printemps";
+    var price = 45;
+    var description= "American Gothic";
 </script>
 
