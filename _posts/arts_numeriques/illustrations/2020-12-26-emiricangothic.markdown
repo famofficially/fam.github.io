@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "American Gothic - revisité, Peinture numérique, décembre 2020"
-date:   2020-26-12 17:57:21
+date:   2020-12-26 17:57:21
 preview: /img/americangothic/americangothic-min.jpg
 category: illustrations
 ---

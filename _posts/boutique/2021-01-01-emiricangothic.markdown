@@ -9,11 +9,12 @@ description: American Gothic, Peinture numérique, décembre 2020
 ---
 
 ![Picture 1](/img/americangothic/americangothic-min.jpg) 
+![Picture 1](/img/americangothic/americangothic-framed-min.jpg) 
 
-🔸Print sur PAPIER COUCHE-200 SAT-QR-NUM-J2 lololo .   
-🔸Format 66cm x 44.66cm (Poster format paysage).    
+🔸Print sur PAPIER de haute qualité 300g .   
+🔸Format A3.(contactez moi pour dimensions personalisées)   
 🔸Certificat d'authenticité joint.    
-🔸Livraison GRATUITE & EXPRESS en 3 à 5 jours.  
+🔸Livraison GRATUITE & EXPRESS en 3 à 5 jours (normalement).  
 🔸Pour toute question Merci de me contacter sur: farah.maamar@icloud.com
 
 <div id="paypal-button-container"></div>
