@@ -13,3 +13,5 @@ instagram_username: #artmetrywork
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-cayman
