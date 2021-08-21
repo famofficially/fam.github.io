@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "freinds, colored pencils on paper, 21x29.7 cm, 2021"
+date:   2021-08-14 17:58:21
+logo: logoblack
+preview: /img/freinds.jpg
+category: drawing
+---
+
+![freinds](/img/freinds.jpg) 
+
+

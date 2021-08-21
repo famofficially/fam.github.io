@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "girl, digital painting, 2021"
+date:   2021-08-14  18:59:30
+logo: logoblack
+preview: /img/girl.jpg
+category: illustration
+---
+
+![night and light](/img/girl.jpg) 
+
+

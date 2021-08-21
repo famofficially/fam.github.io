@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{% if page.style %}{{ page.style }} {% endif %}">
 
     <main class="wrapper">
       
@@ -12,12 +12,15 @@
       <div class="container">
         {{ content }}
 
+        {% unless page.style %}
         {% include footer.html %}
+        {% endunless %}
       </div>
     
     </main>
 
     {% include scripts.html %}
+   
     
   </body>
 

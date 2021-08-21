@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sans titre, Aquarelle sur papier, 29x42 cm, 2019."
+date:   2019-11-08 19:57:21
+preview: /img/bird.jpeg
+category: painting
+---
+
+![Picture 1](/img/bird.jpeg) 
+
+
+Sans titre, Aquarelle sur papier, 29x42 cm, 2019.
+
+

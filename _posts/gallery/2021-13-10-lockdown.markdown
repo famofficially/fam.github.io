@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "lockdown, colored pencils on paper, 42x29.7 cm, 2021"
+date:   2021-08-10 17:58:21
+logo: logoblack
+preview: /img/lockdown.jpg
+category: drawing
+---
+
+![colors](/img/lockdown.jpg) 
+
+

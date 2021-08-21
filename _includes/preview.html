@@ -1,5 +1,5 @@
 {% for post in site.posts %} 
-{% if 'peinture,dessin,sculpture' contains post.category %}
+{% if 'peixnture,desxsin,sculxpture' contains post.category %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
@@ -8,7 +8,7 @@
                 </a>
                 <div class="post-title">{{ post.title }}</div>
                 {% if post.tagmerit %}
-                <a href="#" class="tag" style="font-size: 9px;">{{post. tagmerit}}</a>
+                <a href="#" class="tag" style="font-size: 12px;">{{post. tagmerit}}</a>
                 {% endif %}
 
            </div>

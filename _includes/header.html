@@ -1,53 +1,83 @@
 <header class="site-header">
-  <a class="site-title" href="{{ site.baseurl }}"><img src="/img/banner.png"></a>
-
+  <!-- TODELET<a class="site-title" href="{{ site.baseurl }}"><img src="/img/banner.png"></a> -->
+ 
   <nav class="navbar">
     <ul>
+
+      
+      <li class="{% if page.logo %}{{ page.logo }} {% endif %}">
+        <a class="{% if page.logo %}{{ page.logo }} {% endif %}" href="{{ site.baseurl }}/"> F A M</a>
+      </li>
+      
       <li class="nav-item">
-        <a href="#">Arts plastiques</a>
-        <ul class="dropdown">
+        <a href="{{ site.baseurl }}/gallery" class="{% if page.menucolor %}{{ page.menucolor }} {% endif %}">Gallery</a>
+        <!-- TODELET <ul class="dropdown">
           <li><a href="{{ site.baseurl }}/arts_plastiques/peinture">Peinture</a></li>
           <li><a href="{{ site.baseurl }}/arts_plastiques/dessin">Dessin</a></li>
           <li><a href="#">Sculpture</a></li>
-        </ul>
+        </ul> -->
       </li>
-      <li class="nav-item"><a href="#">Art numerique</a>
+      <!-- TODELET<li class="nav-item"><a href="#">Art numerique</a>
         <ul class="dropdown">
           <li><a href="{{ site.baseurl }}/arts_numeriques/illustrations">Illustrations</a></li>
           <li><a href="{{ site.baseurl }}/arts_numeriques/posters">Posters</a></li>
           <li><a href="{{ site.baseurl }}/arts_numeriques/illustrations_jeunesse">Illustrations jeunesse</a></li>
           
         </ul>
-      </li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/expo_publications/sommaire">Expo et Publications</a>
+      </li> -->
+      <!-- TODELET <li class="nav-item"><a href="{{ site.baseurl }}/expo_publications/sommaire">Expo et Publications</a>
         <ul class="dropdown">
           <li><a href="{{ site.baseurl }}/expo_publications/eurydema_ornata2020">REVUE ORNATA</a></li>
           <li><a href="{{ site.baseurl }}/expo_publications/vitry2019">Galerie JEAN-COLLET</a></li>  
         </ul>
+      </li> -->
+      <li class="nav-item"><a href="{{ site.baseurl }}/shop" class="{% if page.menucolor %}{{ page.menucolor }} {% endif %}">Shop</a>
       </li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/boutique">🎨Boutique</a>
-      </li>
-      <li class="nav-item"><a href="#">Blog</a>
+      <!-- TODELET<li class="nav-item"><a href="#">Blog</a>
         <ul class="dropdown">
           <li class="nav-item"><a href="{{ site.baseurl }}/blog/confinement_covid-19">Confinement Covid-19</a></li>
           <li class="nav-item"><a href="{{ site.baseurl }}/blog/art_capital2020">Art Capital 2020</a></li>
           <li class="nav-item"><a href="{{ site.baseurl }}/blog/collection-de-vinci">Collection De Vinci</a></li>
           <li class="nav-item"><a href="#">Nuit nocturne-Louvre</a></li>   
         </ul> 
-      </li>
-      <li class="nav-item"><a href="#">À propos</a>
+      </li> -->
+      <!-- TODELETE <li class="nav-item"><a href="#">À propos</a>
         <ul class="dropdown">
           <li class="nav-item"><a href="{{ site.baseurl }}/demarche/">Démarche Artistique</a></li>
           <li class="nav-item"><a href="{{ site.baseurl }}/biographie/">Biographie</a></li>
         </ul>
       </li>
-      
+       -->
       <!--
        <li class="nav-item"><a href="{{ site.baseurl }}/illustrations/">Illustrations</a></li>
        -->
       <li class="nav-item">
-        <a href="{{ site.baseurl }}/contact/">Contact </a>
+        <a href="{{ site.baseurl }}/contact/"class="{% if page.menucolor %}{{ page.menucolor }} {% endif %}" >Contact </a>
       </li>
+
+      <li class="nav-item social-media-list">
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" class="{% if page.menucolor %}{{ page.menucolor }} {% endif %}"> 
+          <i class="fab fa-facebook-square fa-lg"></i>
+        </a>
+      </li>
+      <li class="nav-item social-media-list" >
+        <a href="https://www.instagram.com/{{ site.instagram_username }}" class="{% if page.menucolor %}{{ page.menucolor }} {% endif %}"> 
+                  
+          <i class="fab fa-instagram-square fa-lg"></i>
+                  <!-- <span class="icon  icon--instagram">
+                      <svg viewBox="0 0 16 16">
+                        <path style=" stroke:none;fill-rule:nonzero;fill:#828282 rgb(0%,0%,0%);fill-opacity:1;"
+                          d="M 11 0 L 5 0 C 2.238281 0 0 2.238281 0 5 L 0 11 C 0 13.761719 2.238281 16 5 16 L 11 16 C 13.761719 16 16 13.761719 16 11 L 16 5 C 16 2.238281 13.761719 0 11 0 Z M 14.5 11 C 14.5 12.929688 12.929688 14.5 11 14.5 L 5 14.5 C 3.070312 14.5 1.5 12.929688 1.5 11 L 1.5 5 C 1.5 3.070312 3.070312 1.5 5 1.5 L 11 1.5 C 12.929688 1.5 14.5 3.070312 14.5 5 Z M 14.5 11 " />
+                        <path style=" stroke:none;fill-rule:nonzero;fill:#828282 rgb(0%,0%,0%);fill-opacity:1;"
+                          d="M 8 4 C 5.789062 4 4 5.789062 4 8 C 4 10.210938 5.789062 12 8 12 C 10.210938 12 12 10.210938 12 8 C 12 5.789062 10.210938 4 8 4 Z M 8 10.5 C 6.621094 10.5 5.5 9.378906 5.5 8 C 5.5 6.621094 6.621094 5.5 8 5.5 C 9.378906 5.5 10.5 6.621094 10.5 8 C 10.5 9.378906 9.378906 10.5 8 10.5 Z M 8 10.5 " />
+                        <path style=" stroke:none;fill-rule:nonzero;fill:#828282 rgb(0%,0%,0%);fill-opacity:1;"
+                          d="M 12.832031 3.699219 C 12.832031 3.996094 12.59375 4.234375 12.300781 4.234375 C 12.003906 4.234375 11.765625 3.996094 11.765625 3.699219 C 11.765625 3.40625 12.003906 3.167969 12.300781 3.167969 C 12.59375 3.167969 12.832031 3.40625 12.832031 3.699219 Z M 12.832031 3.699219 " />
+
+                      </svg>
+                    </span> -->
+         </a>
+      </li>
+      
     </ul>
   </nav>
 

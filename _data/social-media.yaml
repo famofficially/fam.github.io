@@ -1,25 +1,32 @@
 email:
-  id: 'farah.maamar@icloud.com'
+  id: 'famartwork@gmail.com'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa fa-envelope-square'
 
 facebook:
-  id: 'farah.artwork'
+  id: 'fam.artwork'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
   fa-icon: 'fab fa-facebook-square'
 
 twitter:
-  id: 'farahartwork'
+  id: 'fam_officially'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
   fa-icon: 'fab fa-twitter-square'
 
 instagram:
-  id: 'farahartwork'
+  id: 'fam.officially'
   href: 'https://www.instagram.com/'
   title: 'Instagram'
   fa-icon: 'fab fa-instagram-square'
+
+
+behance:
+  id: 'famofficially'
+  href: 'https://www.behance.net/'
+  title: 'behance'
+  fa-icon: 'fab fa-behance-square'
 
   

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Freedom, illustration numérique, 2019."
+date:   2019-11-07 17:57:21
+preview: /img/freedom.jpg
+category: illustration
+---
+
+![Picture 1](/img/freedom.jpg) 
+
+
+Freedom, illustration numérique, 2019.

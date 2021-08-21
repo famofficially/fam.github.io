@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "bad boy, digital illustration, 2019."
+logo: logoblack
+date:   2019-07-26 16:24:21
+preview: /img/kowala.jpg
+category: illustration
+---
+
+![Picture 1](/img/kowala.jpg) 
+
+
+
+
+
