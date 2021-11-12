@@ -21,8 +21,12 @@ permalink: /gallery/
        <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalart">Traditional Art</a>
       </li>
+
+       <span aria-hidden="true" style="color: grey">|</span>
+      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFT</a>
+      </li>
       
-    </ul>
+  </ul>
   </nav>
   
 <div>
@@ -32,7 +36,8 @@ permalink: /gallery/
 {% if post.category contains 'illustration' or post.category contains 'painting' or
 post.category contains 'poster' or
 post.category contains 'drawing' or
-post.category contains 'youthillustration'
+post.category contains 'youthillustration' or 
+post.category contains 'nft'
 
 %}
     {% cycle 'add row' : '<div class="row">', '', '' %}

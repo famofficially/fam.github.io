@@ -11,18 +11,22 @@ permalink: /gallery/gallerytraditionalart
 <ul>
       <li class="nav-item">
         <a href="{{ site.baseurl }}/gallery/">All</a>
-       
       </li>
+
       <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item">
         <a href="{{ site.baseurl }}/gallery/gallerydigitalart">Digital Art</a>
-       
       </li>
+       
        <span aria-hidden="true" style="color: grey">|</span>
+
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalart">Traditional Art</a>
       </li>
       
-    </ul>
+      <span aria-hidden="true" style="color: grey">|</span>
+      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFT</a>
+      </li>
+  </ul>
   </nav>
   
 <div>

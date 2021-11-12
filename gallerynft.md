@@ -2,7 +2,7 @@
 layout: page
 title:
 logo: logoblack
-permalink: /gallery/gallerydigitalart
+permalink: /gallery/nft
 
 ---
 
@@ -21,20 +21,18 @@ permalink: /gallery/gallerydigitalart
        <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalart">Traditional Art</a>
       </li>
-
+      
        <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFT</a>
       </li>
       
-  </ul>
+    </ul>
   </nav>
   
 <div>
-{% for post in site.posts %}
-{% if post.category contains 'illustration' or
-      post.category contains 'poster' or 
-       post.category contains 'nft'
 
+{% for post in site.posts %}
+{% if post.category contains 'nft' 
 %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">

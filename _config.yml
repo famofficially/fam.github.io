@@ -13,5 +13,5 @@ instagram_username: fam.officially
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-theme: jekyll-theme-cayman
+#theme ci dessous mis en commebtaire car erreur de lancer jekyll
+#theme: jekyll-theme-cayman

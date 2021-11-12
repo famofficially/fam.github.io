@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "falling, watercolor on paper, 29.7x21 cm, 2021"
+date:   2021-09-13  19:59:30
+logo: logoblack
+preview: /img/falling.png
+category: painting
+---
+
+![falling](/img/falling.png) 
+
+
+
