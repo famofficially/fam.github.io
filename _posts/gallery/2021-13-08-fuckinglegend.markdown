@@ -24,7 +24,7 @@ This piece which presents a collective of portraits of these brilliant people me
  
 Let your imagination run wild mainly about the questions that may go through your mind, why are they together? what do they say that is so important?Who is emprisoned…
 
-The acquirer of this unique NFT will receive a digigraphie too (physical one, signed)  at home. 1264
+The acquirer of this unique NFT will receive a digigraphy too (physical one, signed)  at home. 1264
 
 <iframe width="725" height="480" src="https://www.youtube.com/embed/_r8XLAfR8mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
