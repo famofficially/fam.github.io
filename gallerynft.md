@@ -8,6 +8,9 @@ permalink: /gallery/nft
 
 <nav class="navbarshop">
 
+
+
+
 <ul>
       <li class="nav-item">
         <a href="{{ site.baseurl }}/gallery/">All</a>
@@ -24,10 +27,12 @@ permalink: /gallery/nft
       
        <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFT</a>
-      </li>
       
-    </ul>
-  </nav>
+      </li>
+
+      
+  </ul>
+  </nav>   
   
 <div>
 

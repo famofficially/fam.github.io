@@ -18,6 +18,13 @@ window.location='{{ site.baseurl }}/shop';}">
 </iframe>
 
 <!--CONFIG THE FORM MANAGED BY GOOGLE FORM-->
+**Send a message** 
+
+If you have any questions or suggestions, please do not hesitate to contact me: famartwork {at} gmail.com
+
+
+Or you may use the form below.
+
 
 <form action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSfHLAatgs9wlvsa1zoAOS8BlZyA8WfU86vqxTyykI7g6RigCA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
       <label> Name*</label>
@@ -35,8 +42,16 @@ window.location='{{ site.baseurl }}/shop';}">
       <button type="submit">Send</button>
 </form>
 
- 
-[Email: famartwork@gmail.com](mailto:famartwork@gmail.com)
+<font size="1"> +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +</font> 
+<br>
+
+**Social networks**
+
+Facebook
+
+Twitter
+
+Instagram 
 
 
 
