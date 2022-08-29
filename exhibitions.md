@@ -9,7 +9,7 @@ permalink: /exhibitions/
 <font size="1"> +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +</font> 
 <br>
 
-## Selected exhibitions 
+## Selected Exhibitions 
 
 
 **Art Boom NFT- Focus Art Fair "BOOM" - Paris 2022 / Group show** <span style="color: green;"> (Upcoming)</span>
