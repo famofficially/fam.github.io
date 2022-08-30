@@ -4,7 +4,7 @@ title:  "fucking legend, digital painting #NFT, 2021"
 date:   2021-08-17  19:52:30
 logo: logoblack
 preview: /img/fuckingLegend_signed.jpg
-category: nft
+category: illustration
 ---
 
 ![night and light](/img/fuckingLegend_signed.jpg) 

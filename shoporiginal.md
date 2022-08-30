@@ -1,14 +1,13 @@
 ---
 layout: page
-title: shop
+title: Shop
 logo: logoblack
 permalink: /shop/shoporiginals
 ---
 <nav class="navbarshop">
 
-    <ul>
-    
-     <li class="nav-item">
+<ul>
+      <li class="nav-item">
         <a href="{{ site.baseurl }}/shop/">All</a>
        
       </li>
@@ -17,10 +16,14 @@ permalink: /shop/shoporiginals
         <a href="{{ site.baseurl }}/shop/shopprints">Prints</a>
        
       </li>
-      <span aria-hidden="true" style="color: grey">|</span>
-     
+       <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/shop/shoporiginals">Originals</a>
       </li>
+      
+      <span aria-hidden="true" style="color: grey">|</span>
+      <li class="nav-item">
+        <a href="{{ site.baseurl }}/shop/shopnft">NFT</a>
+       </li>
       
     </ul>
   </nav>

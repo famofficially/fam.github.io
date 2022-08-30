@@ -2,7 +2,7 @@
 layout: page
 title: Shop
 logo: logoblack
-permalink: /shop/shopprints
+permalink: /shop/shopnft
 ---
 <nav class="navbarshop">
 
@@ -30,8 +30,10 @@ permalink: /shop/shopprints
 
 
 <div>
+
+
 {% for post in site.posts %}
-{% if  post.category contains 'shopprint'
+{% if post.category contains 'nft' 
 %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
@@ -39,11 +41,10 @@ permalink: /shop/shopprints
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <img src="{{ post.preview }}">
                 </a>
-                <div class="post-title">{{ post.title }}
-                <br>
-                <a href="#" class="tag">{{ post.price}}€ </a>
-                <br>
-                <a class="button" href="{{ post.url | prepend: site.baseurl }}">Buy</a></div>
+                <div class="post-title">{{ post.title }}</div>
+               {% if post.tagmerit %}
+                <a href="#" class="tag" style="font-size: 9px;">{{post. tagmerit}}</a>
+                {% endif %}
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}

@@ -20,6 +20,11 @@ permalink: /shop/
       <li class="nav-item"><a href="{{ site.baseurl }}/shop/shoporiginals">Originals</a>
       </li>
       
+      <span aria-hidden="true" style="color: grey">|</span>
+      <li class="nav-item">
+        <a href="{{ site.baseurl }}/shop/shopnft">NFT</a>
+       </li>
+      
     </ul>
   </nav>
 
