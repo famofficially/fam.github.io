@@ -52,3 +52,5 @@ permalink: /shop/shopnft
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
 </div>
+
+>[Available for sale on Opensea ☞  https://opensea.io/fam_officially](https://opensea.io/fam_officially)
