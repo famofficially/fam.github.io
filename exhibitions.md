@@ -38,7 +38,7 @@ Curated by [Honglee](https://fr.curatorhonglee.com/)  </span> <br>
 
 
 *- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery 2019* <br>
-*- La revue Ornata #7, ISSN 2426-3869, March 2020* <br>
+*- Work featured on Ornata Magazine "La revue Ornata #7", ISSN 2426-3869, March 2020* <br>
 
 ## Awards & Distinctions
 
