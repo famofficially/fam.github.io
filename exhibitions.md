@@ -20,6 +20,13 @@ Curated by [Honglee](https://fr.curatorhonglee.com/)  </span> <br>
 [*Art Boom NFT- Focus Art Fair (more details)*](https://www.focusartfair.net/nft)
 <br>
 
+**Anonyme Zeichner 2022 - Berlin / Group show** 
+<br>
+*From June 18 to August 24, 2022 / ANONYMOUS DRAWINGS 2022 - Galerie im Körnerpark, Germany* <br>
+Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https://www.anonyme-zeichner.de/))<br>
+[*Anonymous Drawings 2022 (more details)*](https://galerie-im-koernerpark.de/en/exhibitions/anonyme-zeichner-2022)
+<br>
+
 **Le Printemps d’Ornata - 2020 / virtual Group show** 
 <br>
 *28 and 29 march, 2020 / Vive le Printemps (virtuel) d’Ornata - Paris, France* <br>
@@ -38,7 +45,7 @@ Curated by [Honglee](https://fr.curatorhonglee.com/)  </span> <br>
 
 
 *- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery 2019* <br>
-*- Work featured on Ornata Magazine "La revue Ornata #7", ISSN 2426-3869, March 2020* <br>
+*- Work featured on Ornata Magazine #7 "La revue Ornata", ISSN 2426-3869, March 2020* <br>
 
 ## Awards & Distinctions
 
