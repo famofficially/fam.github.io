@@ -5,9 +5,9 @@ logo: logoblack
 permalink: /exhibitions/
 ---
 
+<br> <br>
 
-<font size="1"> +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +</font> 
-<br>
+******
 
 ## Selected Exhibitions 
 
