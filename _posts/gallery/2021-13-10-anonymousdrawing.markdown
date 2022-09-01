@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alone, charcoal on paper, 29.7x21 cm, 2021"
-date:   2021-12-13 17:58:21
+date:   2021-09-09 17:53:21
 logo: logoblack
 preview: /img/anonymousdrawing.jpg
 category: painting
