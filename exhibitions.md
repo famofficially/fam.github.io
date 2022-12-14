@@ -46,7 +46,7 @@ Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https:/
 [*Le Printemps d’Ornata (more details)*](https://www.facebook.com/EurydemaOrnata/)
 <br>
 
-**Exhibition of the 50th edition of the November International Painting Prize - Vitry sur seine, France - 2019 / Group show** <br>
+**Exhibition of the 50th edition of "the November International Painting Prize"  - Vitry sur seine, France - 2019 / Group show** <br>
 *From November 16 to December 15, 2019  / November in vitry, Jean-Collet Municipal Gallery at Vitry-sur-seine, France*
  > *Exposition des oeuvres selectionnées pour le Prix international de peinture "Novembre à Vitry" 2019, Galerie municiale Jean-Collet à Vitry-sur-seine, France*
 <br>

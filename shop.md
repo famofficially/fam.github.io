@@ -52,3 +52,5 @@ permalink: /shop/
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
 </div>
+**Other SHOPs**<br>
+[▸ Etsy shop ](https://www.etsy.com/fr/shop/famofficially)
