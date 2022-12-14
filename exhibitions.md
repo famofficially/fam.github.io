@@ -40,7 +40,7 @@ Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https:/
 [*Anonymous Drawings 2022 (more details)*](https://galerie-im-koernerpark.de/en/exhibitions/anonyme-zeichner-2022)
 <br>
 
-**Le Printemps d’Ornata - Paris, France - 2020 / virtual Group show** 
+**Le Printemps d’Ornata - Paris, France - 2020 / Virtual Group show** 
 <br>
 *28 and 29 march, 2020 / Vive le Printemps (virtuel) d’Ornata - Paris, France* <br>
 [*Le Printemps d’Ornata (more details)*](https://www.facebook.com/EurydemaOrnata/)
