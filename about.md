@@ -1,31 +1,37 @@
 ---
 layout: page
-title: About
+title: 
 logo: logoblack
 permalink: /about/
 ---
-	
+
+<p style="text-align: center;"> _______ Biography _______ </p>
+
 
 **FAM**
 
-<span style="color: black;"> French visual artist. Lives and works near Paris. </span>
-
+<span style="color: black;">FAM (b.1987) is a French visual artist who lives and works near Paris. </span>
 <span style="color: black;">
-Human faces and bodies have always attracted her. She finds the human body fascinating in its complex system of expression and movement that varies from one to another. A big believer in the multi-dimensionality of beauty, she tries to unveil its different hidden layers, showing it using different lenses. She likes exploring how figures express emotions through body language which can be read at a glance; giving life to invisible things like human social interactions. Often she adds her personal touch of irony or cynicism that can surprise and question the viewer all of this for the sole purpose of accentuating the emotion that will emerge from the visual as a whole.
+Before becoming an artist, FAM studied computer science and pursued two years of a PhD thesis at Paris 1 Panthéon-Sorbonne university, which she dropped and devoted entirely to her art.
+FAM has exhibited her work in different art fairs and galleries around her area in France, Germany, United States. She works with different media such as digital painting, digital collage, oil and acrylic painting, drawing, and printmaking to explore themes like psychological states, beauty, identity, the body, gender, doctrines and cognitive biases, social issues,  time and technology.
+Fam’s artistic goal is to question rather than cast judgment.
 </span>
 <br><br>
 
 
  > <font size="2">
 <span style="color: grey;">
-Artiste plasticienne française. Vit et travaille près de Paris. 
-</span>  </font> 
+Artiste visuel Française. Vit et travaille dans la Région Parisienne. 
+</span>  </font>
  > <font size="2">
-<span style="color: grey;">
-Les visages et les corps humains l'ont toujours attirée. Elle trouve le corps humain fascinant dans son système complexe d'expression et de mouvement qui varie de l'un à l'autre. Fervente adepte de la multidimensionnalité de la beauté, elle essaie d'en dévoiler les différentes couches cachées, en la montrant sous différents angles. Elle aime explorer comment les personnages expriment des émotions à travers un langage corporel qui peut être lu en un coup d'œil ; donner vie à des choses invisibles comme les interactions sociales humaines. Souvent elle ajoute sa touche personnelle d'ironie ou de cynisme qui peut surprendre et questionner le spectateur tout cela dans le seul but d'accentuer l'émotion qui se dégagera du visuel dans son ensemble.
+<span style="color: grey;"> <br>
+Avant de devenir artiste, FAM a étudié l'informatique et poursuivi deux années de thèse de doctorat à l'université Paris 1 Panthéon-Sorbonne, qu'elle a abandonnées et se consacre entièrement à son art. FAM a exposé son travail dans différentes galeries et salon d'art autour de sa région en France, en Allemagne et aux États-Unis. Elle travaille avec différents médias tels que la peinture numérique, le collage numérique, la peinture à l'huile et à l'acrylique, le dessin et la gravure pour explorer des thèmes tels que les états psychologiques, la beauté, l'identité, le corps, le genre, les doctrines et les biais cognitifs, les problèmes sociaux, le temps et la technologie. L'objectif artistique de Fam est de questionner plutôt que de porter un jugement.
 </span> </font>
 
 
+<p style="text-align: center;"> _______ Artist statement _______ </p>
 
-
+<span style="color: black;">
+Human faces and bodies have always attracted me. I find the human body fascinating in its complex system of expression and movement that varies from person to person. A big believer in the multi-dimensionality of beauty, I try to unveil its different hidden layers, showing it using different lenses. I like to explore the way in which figures express emotions through body language which can be read at a glance; bringing invisible things like human social interactions to life.
+</span>
 

@@ -12,7 +12,20 @@ permalink: /exhibitions/
 ## Selected Exhibitions 
 
 
-**Art Boom NFT- Focus Art Fair "BOOM" - Paris 2022 / Group show** <span style="color: green;"> (Upcoming)</span>
+**16TH Annual Holiday Mini Art Exhibit - Seattle (United States) 2022 / Group show** <span style="color: green;"> (Ongoing)</span>
+<br>
+*From December 09, 2022 to February 06, 2023* <br>
+<span style="color: black;"> 
+Curated by [Laurie Kearney](https://ghostgalleryshop.com/)  </span> <br>
+[*Online preview (more details)*](https://ghostgalleryshop.com/16th-annual-mini-art-exhibit-a-m)
+<br>
+
+**49ème Salon des artistes locaux, Centre d’art la Graineterie - Houilles 2022 / Group show** 
+<br>
+*From November 25 to December 10, 2022* <br>
+
+
+**Art Boom NFT- Focus Art Fair "BOOM" - Paris 2022 / Group show** 
 <br>
 *From September 01 to September 04, 2022 / Art Boom - Focus Art Fair, Carrousel du Louvre Paris, France* <br>
 <span style="color: black;"> 
@@ -43,8 +56,8 @@ Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https:/
 
 ## Publications
 
-
-*- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery 2019* <br>
+*- 9e mois de la création locale, exhibition catalog; Centre d’art la Graineterie, Houilles (France), Novembre 2022* <br>
+*- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery, Vitry sur sein (France), Novembre 2019* <br>
 *- Work featured on Ornata Magazine #7 "La revue Ornata", ISSN 2426-3869, March 2020* <br>
 
 ## Awards & Distinctions

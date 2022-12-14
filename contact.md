@@ -20,7 +20,7 @@ window.location='{{ site.baseurl }}/shop';}">
 <!--CONFIG THE FORM MANAGED BY GOOGLE FORM-->
 **Send a message** 
 
-If you have any questions or suggestions, please do not hesitate to contact me: famartwork {at} gmail.com
+If you have any questions or suggestions, please do not hesitate to contact me: [**famartwork{at}gmail.com**](mailto:famartwork@gmail.com)
 
 
 Or you may use the form below.
