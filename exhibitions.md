@@ -54,11 +54,13 @@ Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https:/
 [*Novembre à Vitry 2019 - Prix de peinture (more details)*](https://galerie.vitry94.fr/3476-19217/expositions/details/fiche/une-annee-en-peinture-acte-5-novembre-a-vitry-2019-prix-de-peinture.htm)
 
 
-## Publications
+## Online and Featured Press
 
-*- 9e mois de la création locale, exhibition catalog; Centre d’art la Graineterie, Houilles (France), Novembre 2022* <br>
-*- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery, Vitry sur sein (France), Novembre 2019* <br>
-*- Work featured on Ornata Magazine #7 "La revue Ornata", ISSN 2426-3869, March 2020* <br>
+*- The Purposeful Mayonnaise Journal, [Vol. 2 Issue 4 (page 51)](https://www.thepurposefulmayo.com/issue-2-4) , subject line: places, December 2022 / january 2023.* <br>
+*- 9e mois de la création locale, exhibition catalog; Centre d’art la Graineterie, Houilles (France), Novembre 2022.* <br>
+*- Ornata Magazine #7 "La revue Ornata", ISSN 2426-3869, March 2020.* <br>
+*- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery, Vitry sur sein (France), Novembre 2019.* <br>
+
 
 ## Awards & Distinctions
 

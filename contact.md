@@ -18,11 +18,11 @@ window.location='{{ site.baseurl }}/shop';}">
 </iframe>
 
 <!--CONFIG THE FORM MANAGED BY GOOGLE FORM-->
-**Send a message** 
+**Send a message** <br>
+If you have any questions or suggestions, please do not hesitate to contact me at : <br>
+[**famartwork{at}gmail.com**](mailto:famartwork@gmail.com)
 
-If you have any questions or suggestions, please do not hesitate to contact me: [**famartwork{at}gmail.com**](mailto:famartwork@gmail.com)
-
-
+<!-- 
 Or you may use the form below.
 
 
@@ -43,13 +43,14 @@ Or you may use the form below.
 </form>
 
 <font size="1"> +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +</font> 
-<br>
+<br> -->
 
-**Social networks**
 
+**Social** <br>
+[Instagram](https://www.instagram.com/fam.officially)<br>
 [Facebook](https://www.facebook.com/fam.artwork) <br>
 [Twitter](https://www.twitter.com/fam_officially) <br>
-[Instagram](https://www.instagram.com/fam.officially)<br>
+
 
 
 
