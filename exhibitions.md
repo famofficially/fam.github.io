@@ -56,10 +56,12 @@ Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https:/
 
 ## Online and Featured Press
 
-*- The Purposeful Mayonnaise Journal, [Vol. 2 Issue 4 (page 51)](https://www.thepurposefulmayo.com/issue-2-4) , subject line: places, December 2022 / january 2023.* <br>
+*- [The Purposeful Mayonnaise Journal, Vol. 2 Issue 4 (page 51), subject line: places, December 2022 / january 2023.](https://www.thepurposefulmayo.com/issue-2-4)* <br>
 *- 9e mois de la création locale, exhibition catalog; Centre d’art la Graineterie, Houilles (France), Novembre 2022.* <br>
-*- Ornata Magazine #7 "La revue Ornata", ISSN 2426-3869, March 2020.* <br>
+*- [Ornata Magazine #7 "La revue Ornata", ISSN 2426-3869, March 2020.](https://eurydemaornataeditions.bigcartel.com/product/revue-ornata-n-7-precommande)* <br>
 *- Catalog of November in vitry (Novembre à vitry) #50, Editions Jean-Collet Municipal Gallery, Vitry sur sein (France), Novembre 2019.* <br>
+
+
 
 
 ## Awards & Distinctions
