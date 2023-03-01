@@ -11,8 +11,15 @@ permalink: /exhibitions/
 
 ## Selected Exhibitions 
 
+**The International Women’s Day: Inspirational Women Artists Exhibition 2023! (aspacearts), Southampton (UK) / Group show** <span style="color: green;"> (Soon)</span>
+<br>
+*From 10th March to 23rd April, 2023* <br>
+<span style="color: black;"> 
+Online auction,[here is the link for reference](https://app.galabid.com/inspirationalwomen23/items)  </span> <br>
+[*Read more about the details here*](https://aspacearts.org.uk/)
+<br>
 
-**16TH Annual Holiday Mini Art Exhibit - Seattle, United States - 2022 / Group show** <span style="color: green;"> (Ongoing)</span>
+**16TH Annual Holiday Mini Art Exhibit - Seattle (Ghostgallery), United States - 2022 / Group show** <span style="color: green;"> (Ongoing Online)</span>
 <br>
 *From December 09, 2022 to February 06, 2023* <br>
 <span style="color: black;"> 
