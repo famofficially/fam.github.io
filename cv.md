@@ -28,12 +28,12 @@ permalink: /cv/
 ******
 
 <p style="text-align: right; text-decoration: underline ;"> 
-  <a href="https://drive.google.com/file/d/1ExeLuvNFG1nbIqba470WB6NbUd3IK7sN/view?usp=sharing">Download</a>
+  <a href="https://drive.google.com/file/d/19FrGjWXRivbef0jA3SbcQVdcemMieK-J/view?usp=sharing" target="_blank">Download</a>
 </p> 
 
 
 <p style="text-align: left;"> 
-<span style="color: black;" >FAM (b.1987) is a French visual artist.</span> <br>
+<span style="color: black;" >FAM (b.1987) is a French Visual Artist.</span> <br>
 <span style="color: black;" >She lives and works near Paris.</span>
 </p> 
 
