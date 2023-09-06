@@ -13,7 +13,6 @@ permalink: /gallery/
         <a href="{{ site.baseurl }}/gallery/">All</a>
        
       </li>
-     
        <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalartpaintings">Paintings</a>
       </li>
