@@ -51,9 +51,9 @@ Or you may use the form below.
 
 
 **Social** <br>
-[Instagram](https://www.instagram.com/famvisualarts)<br>
-[Facebook](https://www.facebook.com/fam.artwork) <br>
-[Twitter](https://www.twitter.com/fam_officially) <br>
+[Instagram](https://www.instagram.com/famvisualarts){:target="_blank"}<br>
+[Facebook](https://www.facebook.com/fam.artwork){:target="_blank"}<br>
+[Twitter](https://www.twitter.com/fam_officially){:target="_blank"}<br>
 
 
 
