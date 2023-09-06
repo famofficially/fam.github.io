@@ -4,7 +4,7 @@ title:  "the delights of reverie, acrylic on canva, 80x60 cm, 2019"
 date:   2019-11-11 17:58:21
 logo: logoblack
 preview: /img/delices.jpg
-category: painting
+category: /
 tagmerit: 🖼 collective exhibition at JEAN-COLLET gallery, dec 2019
 ---
 

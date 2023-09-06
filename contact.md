@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 
 logo: logoblack
 permalink: /contact/
 ---
@@ -9,18 +9,22 @@ permalink: /contact/
 
 <!--REDIRECT TO A CUSTOM THANK YOU PAGE-->
 
-<script type="text/javascript">var submitted=false;
+<!-- <script type="text/javascript">var submitted=false;
 </script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
 onload="if(submitted) 
 {alert('Thank you for your message, i will get back to you very quickly, please check your inbox in the coming hours/days');
 window.location='{{ site.baseurl }}/shop';}">
-</iframe>
+</iframe> -->
 
-<!--CONFIG THE FORM MANAGED BY GOOGLE FORM-->
-**Send a message** <br>
-If you have any questions or suggestions, please do not hesitate to contact me at : <br>
-[**famartwork{at}gmail.com**](mailto:famartwork@gmail.com)
+<br><br><br>
+**Contact** <br>
+
+<a  STYLE="text-decoration:underline" href="famartwork@gmail.com" target="_blank" rel="noopener">famartwork@gmail.com<br></a>
+
+<!-- If you have any questions or suggestions, please do not hesitate to contact me at : <br>
+[famartwork@gmail.com](mailto:famartwork@gmail.com) -->
+
 
 <!-- 
 Or you may use the form below.
@@ -47,7 +51,7 @@ Or you may use the form below.
 
 
 **Social** <br>
-[Instagram](https://www.instagram.com/fam.officially)<br>
+[Instagram](https://www.instagram.com/famvisualarts)<br>
 [Facebook](https://www.facebook.com/fam.artwork) <br>
 [Twitter](https://www.twitter.com/fam_officially) <br>
 

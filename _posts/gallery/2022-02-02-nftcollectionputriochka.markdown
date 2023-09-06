@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Putriochka NFT Collection #100NFTs, 2022"
-date:   2022-02-16 17:57:21
+date:   2022-02-01 14:56:21
 logo: logoblack
 preview: /img/nftcollection/putriochka-nft.jpg
 category: nft

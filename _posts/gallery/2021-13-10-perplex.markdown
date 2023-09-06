@@ -4,7 +4,7 @@ title:  "perplex, watercolor on paper, 29.7x21 cm,  2021"
 date:   2021-08-13  17:59:19
 logo: logoblack
 preview: /img/perplex.jpg
-category: painting
+category: drawing
 ---
 
 ![Le carrousel Jules Verne](/img/perplex.jpg) 

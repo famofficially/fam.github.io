@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fucking Legend #NFT, 2022"
-date:   2022-02-01 17:57:21
+date:   2022-02-01 18:57:21
 logo: logoblack
 preview: /img/nftcollection/fuckinglegend.jpg
 category: nft

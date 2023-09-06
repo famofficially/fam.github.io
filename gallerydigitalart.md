@@ -13,17 +13,22 @@ permalink: /gallery/gallerydigitalart
         <a href="{{ site.baseurl }}/gallery/">All</a>
        
       </li>
-      <span aria-hidden="true" style="color: grey">|</span>
-      <li class="nav-item">
-        <a href="{{ site.baseurl }}/gallery/gallerydigitalart">Digital Art</a>
-       
-      </li>
+      
        <span aria-hidden="true" style="color: grey">|</span>
-      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalart">Traditional Art</a>
+      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalartpaintings">Paintings</a>
       </li>
 
        <span aria-hidden="true" style="color: grey">|</span>
-      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFT</a>
+      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalartpaper">Works on paper</a>
+      </li>
+
+       <span aria-hidden="true" style="color: grey">|</span>
+      <li class="nav-item">
+        <a href="{{ site.baseurl }}/gallery/gallerydigitalart">Digital Art</a>
+      </li>
+
+       <span aria-hidden="true" style="color: grey">|</span>
+      <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFTs</a>
       </li>
       
   </ul>
@@ -32,8 +37,7 @@ permalink: /gallery/gallerydigitalart
 <div>
 {% for post in site.posts %}
 {% if post.category contains 'illustration' or
-      post.category contains 'poster' or 
-       post.category contains 'nft'
+      post.category contains 'poster' 
 
 %}
     {% cycle 'add row' : '<div class="row">', '', '' %}

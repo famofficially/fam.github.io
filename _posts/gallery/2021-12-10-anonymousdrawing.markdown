@@ -4,7 +4,7 @@ title:  "Alone, charcoal on paper, 29.7x21 cm, 2021"
 date:   2021-09-10 17:53:21
 logo: logoblack
 preview: /img/AnonymousDrawing.jpg
-category: painting
+category: drawing
 tagmerit: 🔖 Exhibited at Galerie im Körnerpark 2022 - Berlin / Group show. 
 
 ---

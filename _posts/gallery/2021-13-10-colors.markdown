@@ -4,7 +4,7 @@ title:  "colors, watercolor on paper, 29.7x21 cm, 2021"
 date:   2021-08-13 17:58:21
 logo: logoblack
 preview: /img/colors.jpg
-category: painting
+category: drawing
 ---
 
 ![colors](/img/colors.jpg) 

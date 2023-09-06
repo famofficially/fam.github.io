@@ -3,7 +3,7 @@
  */
 
  .wrapper .container {
-    max-width: 80rem;
+    //max-width: 80rem; modifié en commentaire par kowala
 }
 
 .site-header {
@@ -13,7 +13,8 @@
 .navbar {
     display: block;
     text-align: right; 
-    // text-align added by kowala
+    margin-right: 4rem;
+    // text-align  and margin-right: 4rem; added by kowala
 }
 
 .logowhite{
@@ -25,6 +26,58 @@
     font-size: 3rem;
     padding-left: 20px;   
 }
+
+// ajouté par kowala 
+a[name="moreinfo"] {
+    background: black;
+    color: #fff;
+    padding: 2px 6px 2px 6px;
+    width: 100%;
+  }
+
+    #posts {
+    color: black;
+  }
+  #posts a {
+    padding: 1rem;
+    // text-transform: uppercase;
+  }
+
+  #details {
+    vertical-align: top;
+  }
+
+  .separatornews {
+    margin: 0rem 0rem 0rem 0rem;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(193, 193, 193), rgba(0, 0, 0, 0));
+  }
+
+  .current{
+    margin-bottom: 0rem;
+  }
+
+  .upcomming{
+    margin-bottom: 0rem;
+  }
+
+
+  .past{
+    margin-bottom: 0rem;
+  }
+
+  .thumbnailcontainer {
+    width:240px;
+    height:240px;
+  }
+  
+
+//   .current .upcomming{
+//     margin-bottom: 0rem;
+//   }
+  
+  // fin ajouté par kowala 
 
 .logoblack {
     display: block;

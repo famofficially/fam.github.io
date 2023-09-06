@@ -2,12 +2,12 @@
 title: contact
 email: famartwork@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  ©2021 FAM, all rights reserved.
+  ©2023 FAM, All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fam.github.io" # "https://famofficially.github.io" #"https://farah-cherif.github.io" # the base hostname & protocol for your site
 facebook_username: fam.artwork
 twitter_username: fam_officially
-instagram_username: fam.officially
+instagram_username: famvisualarts
 
 
 # Build settings

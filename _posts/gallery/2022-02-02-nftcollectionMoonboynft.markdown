@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MoonBoy NFT Collection #50NFTs, 2022"
-date:   2022-05-02 17:57:21
+date:   2022-02-01 14:57:21
 logo: logoblack
 preview: /img/nftcollection/moonboynft.jpg
 category: nft

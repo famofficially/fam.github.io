@@ -4,7 +4,7 @@ title:  "music class, acrylic on canva, 80x60 cm, 2018"
 date:   2019-11-08 19:57:21
 logo: logoblack
 preview: /img/vermeer1.jpg
-category: painting
+category: /
 tagmerit: 🔥 Sold out
 ---
 
