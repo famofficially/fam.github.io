@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "404 series, Oil on canva, 80x60 cm, 2023"
-date:   2023-08-08 13:58:21
+title:  ""
+date:   2022-11-01 13:58:21
 logo: logoblack
-preview: /img/paintings2023/p1/p1.png
+preview: /img/paintings2023/socialelevator/p1.jpg
 category: painting
+tagmerit: 🖼 Group show- 49ème Salon des artistes locaux, Centre d’art la Graineterie - Houilles, France
 ---
 
 
-![Picture 1](/img/paintings2023/p1/p1.png) 
+![detail](/img/paintings2023/socialelevator/showexphouille.jpg) 
 
-404 series, Oil on canva, 80x60 cm, 2023
+Series 404, Oil on canva, 80x60 cm, 2023
 
 The artwork portrays a woman of striking beauty and timeless elegance, radiating a sense of fulfillment and inner richness. It intricately examines the interplay between material prosperity and emotional independence, delving into how wealth can contribute to personal flourishing.
 
@@ -21,14 +22,14 @@ This portrait prompts contemplation on the influence of prosperity on mental wel
 In summation, this captivating artwork intricately illustrates the intricate link between affluence, emotional autonomy, and personal growth. It challenges conventional notions of success, beckoning us to venture into the inner dimensions of prosperity.
 
 
-![detail](/img/paintings2023/p1/p11.png) 
-![detail](/img/paintings2023/p1/p12.png) 
-![detail](/img/paintings2023/p1/p13.png) 
-![detail](/img/paintings2023/p1/p14.png) 
-![detail](/img/paintings2023/p1/p15.png) 
-![detail](/img/paintings2023/p1/p16.png)
-![detail](/img/paintings2023/p1/p17.png)
-![detail](/img/paintings2023/p1/p18.png)
-![detail](/img/paintings2023/p1/p19.png)
+
+
+![detail](/img/paintings2023/socialelevator/p2.jpg) 
+![detail](/img/paintings2023/socialelevator/p3.jpg) 
+![detail](/img/paintings2023/socialelevator/p4.jpg) 
+![detail](/img/paintings2023/socialelevator/p5.jpg) 
+![detail](/img/paintings2023/socialelevator/p6.jpg)
+![detail](/img/paintings2023/socialelevator/p7.jpg)
+
 
 
