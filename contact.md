@@ -20,8 +20,7 @@ window.location='{{ site.baseurl }}/shop';}">
 <br><br><br>
 **Contact** <br>
 
-<a  STYLE="text-decoration:underline" href="famartwork@gmail.com" target="_blank" rel="noopener">famartwork@gmail.com<br></a>
-
+✉ [famartwork@gmail.com](mailto:famartwork@gmail.com)
 <!-- If you have any questions or suggestions, please do not hesitate to contact me at : <br>
 [famartwork@gmail.com](mailto:famartwork@gmail.com) -->
 

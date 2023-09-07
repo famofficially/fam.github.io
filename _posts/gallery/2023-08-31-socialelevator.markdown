@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "social elevator, oil on canva, 80x60 cm, 2023"
 date:   2022-11-01 13:58:21
 logo: logoblack
 preview: /img/paintings2023/socialelevator/p1.jpg
