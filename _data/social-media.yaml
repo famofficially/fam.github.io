@@ -5,13 +5,13 @@ email:
   fa-icon: 'fa fa-envelope-square'
 
 facebook:
-  id: 'fam.artwork'
+  id: 'famvisualarts'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
   fa-icon: 'fab fa-facebook-square'
 
 twitter:
-  id: 'fam_officially'
+  id: 'famvisualarts'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
   fa-icon: 'fab fa-twitter-square'
