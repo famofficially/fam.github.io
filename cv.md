@@ -23,14 +23,14 @@ permalink: /cv/
 
 
 <br><br>
+
+
+
+
+
 <span style="color: Black; text-align: center;"> <font size="8">CV </font> </span>
 
 ******
-
-<p style="text-align: right; text-decoration: underline ;"> 
-  <a href="https://drive.google.com/file/d/19FrGjWXRivbef0jA3SbcQVdcemMieK-J/view?usp=sharing" target="_blank">Download</a>
-</p> 
-
 
 <p style="text-align: left;"> 
 <span style="color: black;" >FAM (b.1987) is a French Visual Artist.</span> <br>
@@ -111,7 +111,18 @@ Curated by [Honglee curator](https://www.curatorhonglee.com/)*<br> <br>
 **2019**<br>
 *Novembre à Vitry, exhibition catalog; Jean-Collet Municipal Gallery , Vitry-sur-seine, France.* <br><br>
 
-
+<nav class="navbarshop">
+ <ul>
+      <li class="nav-item">
+        <a href="https://drive.google.com/file/d/19FrGjWXRivbef0jA3SbcQVdcemMieK-J/view?usp=sharing" target="_blank">CV_en_Download</a>
+       </li>
+     
+ <span aria-hidden="true" style="color: grey"> </span>
+       <li class="nav-item">
+       <a href="https://drive.google.com/file/d/1JPQ6l1CEgwT96ecS3LYocx4d-fRex93b/view?usp=sharing" target="_blank">CV_fr_Download</a>
+       </li>
+  </ul>
+</nav> 
 
 
 

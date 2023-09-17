@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "solstice, colored pencils on paper,21x29.7cm, 2023"
+date:   2023-07-10 20:50:42
+logo: logoblack
+preview: /img/worksonpaper/solstice.png
+category: drawing
+---
+
+![solstice](/img/worksonpaper/solstice.png) 
+![solstice](/img/worksonpaper/solstice.png) 
+
+

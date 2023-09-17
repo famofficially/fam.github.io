@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "untitled, watercolor on paper,50x65cm,  2022"
+date:   2023-07-14 17:58:19
+logo: logoblack
+preview: /img/worksonpaper/chicgirl.png
+category: drawing
+---
+
+![chic girl](/img/worksonpaper/chicgirl.png) 
+![chic girl](/img/worksonpaper/chicgirl.png) 
+
+
