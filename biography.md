@@ -27,7 +27,7 @@ permalink: /biography/
 <p style="color: black; text-align: left;">
 <br>
 FAM, born in 1987, lives and works near Paris. <br>
-Before becoming an artist, FAM studied computer science and pursued two years of a PhD thesis at Paris 1 Panthéon-Sorbonne university, which she dropped and devoted entirely to her art.
+Before embarking on her career as an artist, FAM studied computer science and pursued two years of a PhD thesis at Paris 1 Panthéon-Sorbonne university, which she dropped and devoted entirely to her art.
 FAM has exhibited her work in different art fairs and galleries around her area in France, Germany, United States. She works with different media such as digital painting, digital collage, oil and acrylic painting, drawing, and printmaking to explore themes like psychological states, beauty, identity, the body, gender, doctrines and cognitive biases, social issues,  time and technology.
 Fam’s artistic goal is to question rather than cast judgment.
 </p>

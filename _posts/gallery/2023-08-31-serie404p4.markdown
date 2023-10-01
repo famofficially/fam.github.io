@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reset - 404 series, oil on canva, 80x60 cm, 2023"
+title:  "reset - 404 series, oil on canva, 92x73 cm, 2023"
 date:   2023-08-08 13:58:21
 logo: logoblack
 preview: /img/paintings2023/p4/p41.png
@@ -9,7 +9,7 @@ category: painting
 ---
 
 
-Reset - 404 series, Oil on canva, 80x60 cm, 2023
+reset - 404 series, Oil on canva, 92x73 cm, 2023
 
 
 ![Picture 1](/img/paintings2023/p4/p41.png) 

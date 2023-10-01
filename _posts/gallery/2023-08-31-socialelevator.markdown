@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "social elevator, oil on canva, 80x60 cm, 2023"
+title:  "social elevator, oil on canva, 92x73 cm, 2023"
 date:   2022-11-01 13:58:21
 logo: logoblack
 preview: /img/paintings2023/socialelevator/p1.jpg
@@ -11,7 +11,7 @@ tagmerit: 🖼 Group show- 49ème Salon des artistes locaux, Centre d’art la G
 
 ![detail](/img/paintings2023/socialelevator/showexphouille.jpg) 
 
-Series 404, Oil on canva, 80x60 cm, 2023
+social elevator, oil on canva, 92x73 cm, 2023
 
 The artwork portrays a woman of striking beauty and timeless elegance, radiating a sense of fulfillment and inner richness. It intricately examines the interplay between material prosperity and emotional independence, delving into how wealth can contribute to personal flourishing.
 
