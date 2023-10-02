@@ -40,14 +40,14 @@ Human faces and bodies have always attracted me. I find the human body fascinati
 
 
 <span style="color: black;">
-Artiste visuel Française. Vit et travaille dans la Région Parisienne. 
+Artiste visuel Française. Basée en région parisienne. 
 </span>  
 <span style="color: black;"> <br>
-Avant de devenir artiste, FAM a étudié l'informatique et poursuivi deux années de thèse de doctorat à l'université Paris 1 Panthéon-Sorbonne, qu'elle a abandonnées et se consacre entièrement à son art. FAM a exposé son travail dans différentes galeries et salon d'art autour de sa région en France, en Allemagne et aux États-Unis. Elle travaille avec différents médias tels que la peinture numérique, le collage numérique, la peinture à l'huile et à l'acrylique, le dessin et la gravure pour explorer des thèmes tels que les états psychologiques, la beauté, l'identité, le corps, le genre, les doctrines et les biais cognitifs, les problèmes sociaux, le temps et la technologie. L'objectif artistique de Fam est de questionner plutôt que de porter un jugement.
-</span> 
+Elle a initié son parcours artistique après avoir poursuivi des études en informatique et effectué deux années de thèse de doctorat à l'université Paris 1 Panthéon-Sorbonne. Néanmoins, elle a opté pour se consacrer entièrement à sa passion artistique. </span> 
 
 <span style="color: black;">
-Les visages et les corps humains m'ont toujours attiré. Je trouve le corps humain fascinant dans son système complexe d'expression et de mouvement qui varie d'une personne à l'autre. Convaincu de la multidimensionnalité de la beauté, j'essaie de dévoiler ses différentes couches cachées en utilisant diverses approches. J'aime explorer la manière dont les figures expriment leurs émotions à travers le langage corporel, pouvant être lu d'un simple regard, et ainsi donner vie à des choses invisibles telles que les interactions sociales humaines.
+Elle a eu l'opportunité de présenter son travail dans diverses galeries et salons d'art, en France et à l'étranger, notamment en Allemagne et aux États-Unis. Son exploration artistique l'a conduite à expérimenter différents médias, tels que la peinture numérique, le collage numérique, la peinture à l'huile et à l'acrylique, le dessin et la gravure. Ses sujets de prédilection englobent les états psychologiques, la beauté, l'identité, le corps, le genre, les doctrines et les biais cognitifs, les problèmes sociaux, le temps et la technologie. Son objectif artistique réside avant tout dans la création de réflexions profondes plutôt que dans le jugement. </span> 
+
+<span style="color: black;">
+Les visages et les corps humains ont toujours exercé une fascination sur elle. Elle discerne en leur complexité une richesse inestimable, caractérisée par des expressions et des mouvements uniques propres à chaque individu. Elle est persuadée de la multidimensionnalité de la beauté, et c'est pourquoi elle s'efforce de révéler ses couches cachées par le biais d'une variété d'approches artistiques. Son exploration se concentre sur la manière dont les figures humaines expriment leurs émotions par le langage corporel, une richesse qui demeure invisible à l'œil nu mais qui peut être interprétée par un simple coup d'œil. De cette manière, elle donne vie à des éléments invisibles, tels que les interactions sociales humaines, au sein de son travail artistique.
 </span>
-
-
