@@ -22,6 +22,8 @@ permalink: /cv/
 </nav>  
 
 
+
+
 <br><br>
 
 
@@ -46,19 +48,30 @@ permalink: /cv/
 #### COLLECTIVE EXHIBITIONS (Selection) 
 
 **2023**<br>
+**50ème Salon des artistes locaux, Centre d’art la Graineterie - Houilles, France / Group show**
+<br>
+*From November 24 to December 09, 2023* <br>
+<span style="color: black;"> 
+[*For additional details, click here.*](https://lagraineterie.ville-houilles.fr/news/2023/salon-des-artistes-locaux-le-palmares){:target="_blank"}
+
+**Décembre à Montreuil - saison 2, Montreuil, France / Group show**
+<br>
+*From December 01 to December 03, 2023* <br>
+[*For additional details, click here.*](https://www.instagram.com/la_tour_orion/){:target="_blank"}
+
 **The International Women’s Day: Inspirational Women Artists Exhibition 2023! (aspacearts), Southampton (UK) / Group show**
 <br>
 *From 10th March to 23rd April, 2023* <br>
 <span style="color: black;"> 
-Online auction,[here is the link for reference](https://app.galabid.com/inspirationalwomen23/items)  </span> <br>
-[*For additional details, click here.*](https://aspacearts.org.uk/)
+Online auction,[here is the link for reference](https://app.galabid.com/inspirationalwomen23/items){:target="_blank"}  </span> <br>
+[*For additional details, click here.*](https://aspacearts.org.uk/){:target="_blank"}
 
 **16TH Annual Holiday Mini Art Exhibit - Seattle (Ghostgallery), United States - 2022 / Group show** 
 <br>
 *From December 09, 2022 to February 06, 2023* <br>
 <span style="color: black;"> 
-Curated by [Laurie Kearney](https://ghostgalleryshop.com/)  </span> <br>
-[*For additional details, click here.*](https://ghostgalleryshop.com/16th-annual-mini-art-exhibit-a-m)
+Curated by [Laurie Kearney](https://ghostgalleryshop.com/){:target="_blank"}  </span> <br>
+[*For additional details, click here.*](https://ghostgalleryshop.com/16th-annual-mini-art-exhibit-a-m){:target="_blank"}
 <br>
 
 **2022**<br>
@@ -71,20 +84,20 @@ Curated by [Laurie Kearney](https://ghostgalleryshop.com/)  </span> <br>
 <br>
 *From September 01 to September 04, 2022 / Art Boom - Focus Art Fair, Carrousel du Louvre Paris, France* <br>
 <span style="color: black;"> 
-Curated by [Honglee](https://fr.curatorhonglee.com/)  </span> <br>
+Curated by [Honglee](https://fr.curatorhonglee.com/){:target="_blank"}  </span> <br>
 
 **Anonyme Zeichner 2022 - Berlin, Germany - 2022/ Group show** 
 <br>
 *From June 18 to August 24, 2022 / ANONYMOUS DRAWINGS 2022 - Galerie im Körnerpark, Germany* <br>
-Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https://www.anonyme-zeichner.de/))<br>
-[*Anonymous Drawings 2022 (For additional details, click here.)*](https://galerie-im-koernerpark.de/en/exhibitions/anonyme-zeichner-2022)
+Curated by [Anke Becker](https://www.anke-becker.de){:target="_blank"} ([ANONYME ZEICHNER](https://www.anonyme-zeichner.de/){:target="_blank"})<br>
+[*Anonymous Drawings 2022 (For additional details, click here.)*](https://galerie-im-koernerpark.de/en/exhibitions/anonyme-zeichner-2022){:target="_blank"}
 <br>
 
 **2020**<br>
 **Le Printemps d’Ornata - Paris, France - 2020 / Virtual Group show** 
 <br>
 *28 and 29 march, 2020 / Vive le Printemps (virtuel) d’Ornata - Paris, France* <br>
-[*Le Printemps d’Ornata (For additional details, click here.)*](https://www.facebook.com/EurydemaOrnata/)
+[*Le Printemps d’Ornata (For additional details, click here.)*](https://www.facebook.com/EurydemaOrnata/){:target="_blank"}
 <br>
 
 **2019**<br>
@@ -97,17 +110,17 @@ Curated by [Anke Becker](https://www.anke-becker.de) ([ANONYME ZEICHNER](https:/
 #### AWARDS, NOMINATIONS, GRANTS
 **2022**<br>
 *Finalist in the "Art Boom" NFT category at the Competition Focus Art Fair Paris, Carroussel du Louvre, Paris, France. <br>
-Curated by [Honglee curator](https://www.curatorhonglee.com/)*<br> <br>
+Curated by [Honglee curator](https://www.curatorhonglee.com/){:target="_blank"}*<br> <br>
 **2019**<br>
 *Nominated for «Le Prix de Novembre à vitry - 50eme édition», Vitry-sur-seine, France.*
 
 #### ONLINE AND PRINTED PRESS
 **2023**<br>
-*[The Purposeful Mayonnaise Journal, Vol. 2 Issue 4 (page 51), subject line: places, Online,  December 2022 / january 2023.](https://www.thepurposefulmayo.com/issue-2-4)* <br><br>
+*[The Purposeful Mayonnaise Journal, Vol. 2 Issue 4 (page 51), subject line: places, Online,  December 2022 / january 2023.](https://www.thepurposefulmayo.com/issue-2-4){:target="_blank"}* <br><br>
 **2022**<br>
 *9e mois de la création locale, exhibition catalog; Centre d’art la Graineterie, Houilles (France), Novembre 2022.* <br><br>
 **2020**<br>
-*[Ornata Magazine #7 "La revue Ornata",ISSN 2426-3869, Paris (France),March 2020.](https://eurydemaornataeditions.bigcartel.com/product/revue-ornata-n-7-precommande)* <br><br>
+*[Ornata Magazine #7 "La revue Ornata",ISSN 2426-3869, Paris (France),March 2020.](https://eurydemaornataeditions.bigcartel.com/product/revue-ornata-n-7-precommande){:target="_blank"}* <br><br>
 **2019**<br>
 *Novembre à Vitry, exhibition catalog; Jean-Collet Municipal Gallery , Vitry-sur-seine, France.* <br><br>
 

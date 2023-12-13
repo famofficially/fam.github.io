@@ -153,6 +153,33 @@ permalink: /news/
 <section id="posts">
     <a name="past" style="font-weight: bold;">PAST</a>
     <br>    <br>
+
+           <hr class="separatornews" >
+    <ul class="past">
+         <li class="nav-item thumbnailcontainer"> 
+           <img src="{{ site.baseurl }}/img/thumbnails/salon_des_artistes_locaux_houilles.png" alt="gost gallery"> 
+          </li>
+            <li class="nav-item"  id="details"> 
+                <h5 style="font-weight: bold;">50ème Salon des artistes locaux</h5>
+                <h6>From November 24 to December 09, 2023</h6> 
+                <span style="font-weight: bold;">Group show</span><br> 
+                <h6> la Graineterie pôle culturel et centre d’art, Houilles, France. </h6> 
+                <a name="moreinfo" href="https://lagraineterie.ville-houilles.fr/news/2023/salon-des-artistes-locaux-le-palmares" target="_blank">More information</a>
+            </li>
+ </ul>
+     <hr class="separatornews" >
+    <ul class="past">
+         <li class="nav-item thumbnailcontainer"> 
+           <img src="{{ site.baseurl }}/img/thumbnails/tour_orion.png" alt="gost gallery"> 
+          </li>
+            <li class="nav-item"  id="details"> 
+                <h5 style="font-weight: bold;">Décembre à Montreuil - saison 2</h5>
+                <h6>From December 01 to December 03, 2023</h6> 
+                <span style="font-weight: bold;">Group show</span><br> 
+                <h6>Tour Orion - Montreuil, France. </h6> 
+                <a name="moreinfo" href="https://www.instagram.com/la_tour_orion/" target="_blank">More information</a>
+            </li>
+ </ul>
    <hr class="separatornews" >
    <ul class="past">
          <li class="nav-item thumbnailcontainer"> 
@@ -190,7 +217,7 @@ permalink: /news/
                 <h5 style="font-weight: bold;">49ème Salon des artistes locaux</h5>
                 <h6>From November 25 to December 10, 2022</h6> 
                 <span style="font-weight: bold;">Group show</span><br> 
-                <h6>Centre d’art la Graineterie, Houilles, France.  </h6> 
+                <h6>la Graineterie pôle culturel et centre d’art, Houilles, France.  </h6> 
                 <a name="moreinfo" href="https://lagraineterie.ville-houilles.fr/" target="_blank">More information</a>
             </li>
 
