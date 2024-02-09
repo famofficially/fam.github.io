@@ -1,56 +1,15 @@
 ---
-layout: page
+layout: products
 title: Shop
 logo: logoblack
-permalink: /shop/
 ---
-<nav class="navbarshop">
+<!-- ## About this donation page -->
 
-<ul>
-      <li class="nav-item">
-        <a href="{{ site.baseurl }}/shop/">All</a>
-       
-      </li>
-      <span aria-hidden="true" style="color: grey">|</span>
-      <li class="nav-item">
-        <a href="{{ site.baseurl }}/shop/shopprints">Prints</a>
-       
-      </li>
-       <span aria-hidden="true" style="color: grey">|</span>
-      <li class="nav-item"><a href="{{ site.baseurl }}/shop/shoporiginals">Originals</a>
-      </li>
-      
-      <span aria-hidden="true" style="color: grey">|</span>
-      <li class="nav-item">
-        <a href="{{ site.baseurl }}/shop/shopnft">NFT</a>
-       </li>
-      
-    </ul>
-  </nav>
+<!-- Although the primary function of this donation page is to illustrate how the [webshop](/without-plugin/webshop){: .gray} works, you can actually buy me one of the products below. If you think I saved you a huge amount of time... return the favor. If you do not have any money to spare, please share the love by posting something about this website on social media. I would like that just as much. Thank you, you are the best! -->
+
+<!-- ## About this peice  -->
 
 
-<div>
-{% for post in site.posts %}
-{% if post.category contains 'shopprint' or 
-      post.category contains 'shoporiginal'
-%}
-    {% cycle 'add row' : '<div class="row">', '', '' %}
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img src="{{ post.preview }}">
-                </a>
-                <div class="post-title">{{ post.title }}
-                <br>
-                <a href="#" class="tag">{{ post.price}}€ </a>
-                <br>
-                <a class="button" href="{{ post.url | prepend: site.baseurl }}">Buy</a></div>
-           </div>
-        </div>
-{% cycle 'end row' : '', '', '</div>' %}
-{% endif %}
-{% endfor %}
-{% cycle 'end row' : '', '</div>', '</div>' %}
-</div>
-**Other SHOPs**<br>
-[▸ Etsy shop ](https://www.etsy.com/fr/shop/famofficially)
+<!-- I like beer a lot! IPA, Guinness. -->
+
+<!-- Under construction🏗🏗... -->

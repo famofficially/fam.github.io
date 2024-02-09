@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+#OnlythemainSassfileneedsfrontmatterthedashesareenough
 ---
 @charset "utf-8";
 
@@ -16,10 +16,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 .homepagecover
 {
-        background-image: url(/img/background.jpg) !important;
+        // background-image: url(/img/paintings2024/survivor.jpg) !important;
         background-size: cover;
         background-position: top;
-        background-color:rgb(23,23,25);
+        background-color:rgb(255, 255, 255);
        
 }
 

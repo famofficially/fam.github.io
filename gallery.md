@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: 
 logo: logoblack
 permalink: /gallery/
 
@@ -20,7 +20,7 @@ permalink: /gallery/
       <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalartpaper">Works on paper</a>
       </li>
-       <span aria-hidden="true" style="color: grey">|</span>
+       <!-- <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item">
         <a href="{{ site.baseurl }}/gallery/gallerydigitalart">Digital Art</a>
       </li>
@@ -28,7 +28,7 @@ permalink: /gallery/
        <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFTs</a>
       </li>
-      
+       -->
   </ul>
   </nav>
   
@@ -36,11 +36,13 @@ permalink: /gallery/
   
 <div>
 {% for post in site.posts %}
-{% if post.category contains 'illustration' or post.category contains 'painting' or
+{% if  post.category contains 'painting' or
+post.category contains 'drawing' 
+<!-- or
 post.category contains 'poster' or
-post.category contains 'drawing' or
+post.category contains 'illustration' or
 post.category contains 'youthillustration' or 
-post.category contains 'nft'
+post.category contains 'nft' -->
 
 %}
     {% cycle 'add row' : '<div class="row">', '', '' %}

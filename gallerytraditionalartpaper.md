@@ -24,14 +24,14 @@ permalink: /gallery/gallerytraditionalartpaper
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/gallerytraditionalartpaper">Works on paper</a>
       </li>
       
-      <span aria-hidden="true" style="color: grey">|</span>
+      <!-- <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item">
         <a href="{{ site.baseurl }}/gallery/gallerydigitalart">Digital Art</a>
       </li>
 
       <span aria-hidden="true" style="color: grey">|</span>
       <li class="nav-item"><a href="{{ site.baseurl }}/gallery/nft">NFTs</a>
-      </li>
+      </li> -->
   </ul>
   </nav>
   

@@ -9,8 +9,3 @@ category: illustration
 
 ![le temps perdus](/img/letempsperdus.jpg) 
 le temps perdus, digital painting, 2021
-
-
-
-
-

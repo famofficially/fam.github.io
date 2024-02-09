@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "masks, watercolor on paper,50x65cm, 2023"
+title:  "masks, colored pencils on paper,50x65cm, 2023"
 date:   2023-07-13 20:59:42
 logo: logoblack
 preview: /img/worksonpaper/masks.png

@@ -15,3 +15,16 @@ markdown: kramdown
 permalink: pretty
 #theme ci dessous mis en commebtaire car erreur de lancer jekyll
 #theme: jekyll-theme-cayman
+
+collections:
+  products:
+    title: Products
+    output: true
+    permalink: "/shop/:path/"
+
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product

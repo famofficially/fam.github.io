@@ -12,6 +12,22 @@
   <div class="column">
     <p>{{ site.description }}</p>
   </div>
-  </div>
+
+
+  <!-- lightbox -->
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
+
+  <!-- webshop -->
+<script type="text/javascript" src="/js/webshop.js"></script>
+
+<script type="text/javascript">
+    updateCartCount();
+    {% if page.layout == 'cart' %}populateCart();{% endif %}
+    {% if page.layout == 'checkout' %}initCheckoutForm(document.querySelector('#checkout form'));{% endif %}
+    {% if page.layout == 'paylink' %}redirectToPayment('https://useplink.com/payment/test');{% endif %}
+</script>
+
+
 
 </footer>
