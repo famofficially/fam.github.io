@@ -38,11 +38,7 @@ permalink: /gallery/
 {% for post in site.posts %}
 {% if  post.category contains 'painting' or
 post.category contains 'drawing' 
-<!-- or
-post.category contains 'poster' or
-post.category contains 'illustration' or
-post.category contains 'youthillustration' or 
-post.category contains 'nft' -->
+
 
 %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
@@ -62,3 +58,9 @@ post.category contains 'nft' -->
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
 </div>
+
+<!-- or
+post.category contains 'poster' or
+post.category contains 'illustration' or
+post.category contains 'youthillustration' or 
+post.category contains 'nft' -->
