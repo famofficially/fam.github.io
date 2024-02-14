@@ -40,6 +40,7 @@ permalink: /cv/
 </p> 
 
 #### EDUCATION <br>
+2020 Atelier Beaux-Arts de Montparnasse in Paris, by Valérie Delarue.
 2013 Phd preparation, Product Line Engineering, Center Pierre Mendes France, CRI - Paris.<br>
 2012 Master’s degree, Information and Decision System, Panthéon-Sorbonne University - Paris.<br>
 2010 Master’s degree, Computer Systems and Networks, University of Science and Technology USTOMB - Oran.<br>
@@ -124,7 +125,7 @@ Curated by [Honglee curator](https://www.curatorhonglee.com/){:target="_blank"}*
 **2019**<br>
 *Novembre à Vitry, exhibition catalog; Jean-Collet Municipal Gallery , Vitry-sur-seine, France.* <br><br>
 
-<nav class="navbarshop">
+<!-- <nav class="navbarshop">
  <ul>
       <li class="nav-item">
         <a href="https://drive.google.com/file/d/19FrGjWXRivbef0jA3SbcQVdcemMieK-J/view?usp=sharing" target="_blank">CV_en_Download</a>
@@ -135,7 +136,7 @@ Curated by [Honglee curator](https://www.curatorhonglee.com/){:target="_blank"}*
        <a href="https://drive.google.com/file/d/1JPQ6l1CEgwT96ecS3LYocx4d-fRex93b/view?usp=sharing" target="_blank">CV_fr_Download</a>
        </li>
   </ul>
-</nav> 
+</nav>  -->
 
 
 
