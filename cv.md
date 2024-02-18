@@ -117,7 +117,8 @@ Curated by [Honglee curator](https://www.curatorhonglee.com/){:target="_blank"}*
 
 #### ONLINE AND PRINTED PRESS
 **2023**<br>
-*[The Purposeful Mayonnaise Journal, Vol. 2 Issue 4 (page 51), subject line: places, Online,  December 2022 / january 2023.](https://www.thepurposefulmayo.com/issue-2-4){:target="_blank"}* <br><br>
+*[The Purposeful Mayonnaise, a literary and art journal, Vol. 3 Issue 3 (page 19), subject line: "Open theme", Online,  October 2023 / November 2023.](https://www.thepurposefulmayo.com/issue-3-3){:target="_blank"}* 
+*[The Purposeful Mayonnaise, a literary and art journal Vol. 2 Issue 4 (page 51), subject line: "Places", Online,  December 2022 / january 2023.](https://www.thepurposefulmayo.com/issue-2-4){:target="_blank"}* <br><br>
 **2022**<br>
 *9e mois de la création locale, exhibition catalog; Centre d’art la Graineterie, Houilles (France), Novembre 2022.* <br><br>
 **2020**<br>

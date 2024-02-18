@@ -20,7 +20,8 @@ window.location='{{ site.baseurl }}/shop';}">
 <br><br><br>
 **Contact** <br>
 
-✉ [famartwork@gmail.com](mailto:famartwork@gmail.com)
+✉ [famartwork@gmail.com](mailto:famartwork@gmail.com) <br>
+☏ (+33) 782 73 62 86
 <!-- If you have any questions or suggestions, please do not hesitate to contact me at : <br>
 [famartwork@gmail.com](mailto:famartwork@gmail.com) -->
 
