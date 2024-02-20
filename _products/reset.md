@@ -8,7 +8,7 @@ images:
 variant_type: option
 variants:
 - name: Original / Unique piece
-  price: 400
+  price: 1200
   sku: original
   description: version originale
 - name: Print
