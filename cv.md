@@ -30,9 +30,9 @@ permalink: /cv/
 
 
 
-<span style="color: Black; text-align: center;"> <font size="8">CV </font> </span>
+<span style="color: Black; text-align: center;"> <font size="8">CV</font> </span>
 
-******
+******  
 
 <p style="text-align: left;"> 
 <span style="color: black;" >FAM (b.1987) is a French Visual Artist.</span> <br>
@@ -40,8 +40,11 @@ permalink: /cv/
 </p> 
 
 #### EDUCATION <br>
-2020 Atelier Beaux-Arts de Montparnasse in Paris, by Valérie Delarue.
-2013 Phd preparation, Product Line Engineering, Center Pierre Mendes France, CRI - Paris.<br>
+2024 Coursera, ART of the MOOC: Public Art and Pedagogy, Duke University.<br>
+2024 Coursera, In the Studio: Postwar Abstract Painting, MoMA.<br>
+2023 Mooc L’art moderne et contemporain en 4 temps, Centre pompidou.<br>
+2022 Mooc Pop Art, Centre pompidou. <br>
+2015 Phd preparation, Product Line Engineering, Center Pierre Mendes France, CRI - Paris.<br>
 2012 Master’s degree, Information and Decision System, Panthéon-Sorbonne University - Paris.<br>
 2010 Master’s degree, Computer Systems and Networks, University of Science and Technology USTOMB - Oran.<br>
 2008 Bachelor’s degree, Mathematics and Computer Science, University of Science and Technology USTOMB - Oran.<br>

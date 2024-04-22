@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Mirror, Oil on paper, 24x33 cm, 2024"
+date:   2023-09-6 13:58:22
+logo: logoblack
+preview: /img/paintings2024/mirror.jpg
+category: drawing
+---
+
+
+![Picture 1](/img/paintings2024/mirror.jpg) 
+
+--
+
+![detail](/img/paintings2024/mirror.jpg) 
+
+
+
