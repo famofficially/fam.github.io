@@ -3,7 +3,7 @@ layout: post
 title:  "Ovni, Oil on canva, 92x73 cm, 2024"
 date:   2023-09-03 13:58:21
 logo: logoblack
-preview: /img/paintings2024/ovni1.jpg
+preview: /img/paintings2024/ovni.png
 category: painting
 ---
 
@@ -11,6 +11,8 @@ category: painting
 ![Picture 1](/img/paintings2024/ovni.png) 
 
 Ovni, Oil on canva, 92x73 cm, 2023.
+
+![Picturex](/img/paintings2024/ovni1.jpg) 
 
 
 

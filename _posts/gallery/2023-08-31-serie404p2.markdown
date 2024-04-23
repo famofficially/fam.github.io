@@ -3,18 +3,18 @@ layout: post
 title:  "le petit-déjeuner- 404 series, 92x65 cm, 2023"
 date:   2023-08-08 13:58:21
 logo: logoblack
-preview: /img/paintings2023/p2/p21.png
+preview: /img/paintings2023/p2/p2show.jpg
 category: painting
 ---
 
 Collective exhibition
-![Picture 1](/img/paintings2023/p2/p21.png) 
+![Picture 1](/img/paintings2023/p2/p2show.jpg) 
 
 
 le petit-déjeuner- 404 series, 92x65 cm, 2023
 
 
-![catalogue](/img/paintings2023/p2/p21.png) 
+
 ![catalogue](/img/paintings2023/p2/p22.png) 
 ![catalogue](/img/paintings2023/p2/p23.png) 
 ![catalogue](/img/paintings2023/p2/p24.png) 

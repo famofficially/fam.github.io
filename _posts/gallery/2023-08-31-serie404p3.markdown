@@ -3,12 +3,12 @@ layout: post
 title:  "matriochka - série 404, oil on canva, 92x65 cm, 2023"
 date:   2023-08-08 13:58:21
 logo: logoblack
-preview: /img/paintings2023/p3/p31.png
+preview: /img/paintings2023/p3/p31.jpg
 category: painting
 ---
 
 Collective exhibition
-![Picture 1](/img/paintings2023/p3/p31.png) 
+![Picture 1](/img/paintings2023/p3/p31.jpg) 
 
 
 matriochka - série 404, oil on canva, 92x65 cm, 2023
