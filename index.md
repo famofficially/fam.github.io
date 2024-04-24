@@ -12,7 +12,7 @@ permalink: /
 {% include slideshowimages.html %}
 
 {% include footer.html %}
-</html>
+<!-- </html> -->
 <!-- 
 <html>
   <head>
