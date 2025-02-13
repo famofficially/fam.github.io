@@ -50,6 +50,16 @@ permalink: /cv/
 2008 Bachelor’s degree, Mathematics and Computer Science, University of Science and Technology USTOMB - Oran.<br>
 
 #### COLLECTIVE EXHIBITIONS (Selection) 
+**2024**<br>
+**With love, Higher Art Gallery, downtown Traverse City, Michigan, United States / Group show**
+<br>
+*From November 16, 2024, to January 2, 2025.* <br>
+<span style="color: black;"> 
+[*For additional details, click here.*](https://www.higherartgallery.com/){:target="_blank"}
+
+**51ème Salon des artistes locaux, Centre d’art la Graineterie - Houilles, France / Group show**
+<br>
+*From November 30 to December 14, 2024* <br>
 
 **2023**<br>
 **50ème Salon des artistes locaux, Centre d’art la Graineterie - Houilles, France / Group show**
